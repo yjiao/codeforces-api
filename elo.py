@@ -7,7 +7,7 @@ from collections import defaultdict
 MINRATING = 0.0
 MAXRATING = 5000.0
 
-MAXITER = 500
+MAXITER = 20
 
 def get_win_prob(ri, rj): # probability that rating ri beats rating rj
     return 1.0 / (1.0 + math.pow(10, (rj-ri) / 400.0))
@@ -32,7 +32,7 @@ def get_problem_elo(problem_df):
         else:
             lo = mid
 
-    return (lo + hi) / 2.0
+    return int(round((lo + hi) / 2.0))
 
 def get_contest_elo(contest_df):
     contestID = contest_df.contestID.unique()[0]
