@@ -1,6 +1,12 @@
+#!/usr/bin/env python
+
 import math
+import argparse
+
 import numpy as np
 import pandas as pd
+
+import api_functions as af
 
 from collections import defaultdict
 
@@ -8,6 +14,13 @@ MINRATING = 0.0
 MAXRATING = 5000.0
 
 MAXITER = 20
+
+def readCL():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-c", "--contestID")
+
+    args = parser.parse_args()
+    return args.contestID
 
 def get_win_prob(ri, rj): # probability that rating ri beats rating rj
     return 1.0 / (1.0 + math.pow(10, (rj-ri) / 400.0))
@@ -34,7 +47,9 @@ def get_problem_elo(problem_df):
 
     return int(round((lo + hi) / 2.0))
 
-def get_contest_elo(contest_df):
+def get_contest_elo(contestID):
+    contest_df = af.getSolveSuccessDF(contestID)
+
     contestID = contest_df.contestID.unique()[0]
     uniqProbs = contest_df.problemID.unique()
 
@@ -53,5 +68,5 @@ def get_win_prob(ri, rj): # probability that rating ri beats rating rj
     return 1.0 / (1.0 + math.pow(10, (rj-ri)/400.0))
 
 if __name__ == "__main__":
-    print get_win_prob(1600, 1800)
-    print get_win_prob(1600, 2000)
+    contestID = readCL()
+    print get_contest_elo(contestID)
