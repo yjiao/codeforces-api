@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+import sys
+import time
 import math
 import argparse
 
@@ -17,7 +19,7 @@ MAXITER = 20
 
 def readCL():
     parser = argparse.ArgumentParser()
-    parser.add_argument("-c", "--contestID")
+    parser.add_argument("-c", "--contestID", default="0")
 
     args = parser.parse_args()
     return args.contestID
@@ -48,7 +50,13 @@ def get_problem_elo(problem_df):
     return int(round((lo + hi) / 2.0))
 
 def get_contest_elo(contestID):
-    contest_df = af.getSolveSuccessDF(contestID)
+    try:
+        contest_df = af.getSolveSuccessDF(contestID)
+    except:
+        return None
+
+    if contest_df.shape[0] < 50:
+        return None
 
     contestID = contest_df.contestID.unique()[0]
     uniqProbs = contest_df.problemID.unique()
@@ -69,4 +77,22 @@ def get_win_prob(ri, rj): # probability that rating ri beats rating rj
 
 if __name__ == "__main__":
     contestID = readCL()
-    print get_contest_elo(contestID)
+
+    if contestID != "0":
+        print get_contest_elo(contestID)
+    else:
+        df = pd.DataFrame({})
+
+        for cid in af.getContestList():
+            sys.stderr.write("Calculating ELO for contest " + str(cid) + ".\n")
+
+            contest_elos = get_contest_elo(cid)
+
+            if contest_elos is not None:
+                df = df.append(get_contest_elo(cid))
+                sys.stderr.write("Got " + str(contest_elos.shape[0]) + " new rows.\n")
+
+            sys.stderr.flush()
+
+            df = df.sort(["problemRating"])
+            df.to_csv('problem_elos.csv')
