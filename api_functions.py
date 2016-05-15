@@ -28,7 +28,7 @@ def getSolveSuccessDF(contestID):
     # CHECK TO MAKE SURE THAT TEAMS ARE NOT ALLOWED!!!
     for r in rows: # for each person
 	if len(r['party']['members']) > 1:
-	    raise "This contest allows teams. ELO scores are not well-defined."
+	    raise Error("This contest allows teams. ELO scores are not well-defined.")
 
     users = []
     points = []
