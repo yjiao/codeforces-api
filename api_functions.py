@@ -10,8 +10,44 @@
 # handle0 | 1234 | 633 | C | 0
 # 
 
+import os
+import re
+import sys
+import time
 import requests
 import pandas as pd
+
+from collections import defaultdict
+
+def getProblemDataFromContest(contestID):
+    url = 'http://codeforces.com/api/contest.standings?contestId=' + str(contestID) + '&from=1&count=1'
+    r = requests.get(url).json()['result']
+
+    contest = r['contest']['name']
+    startTimeSeconds = r['contest']['startTimeSeconds']
+
+    isD1 = False
+    isD2 = False
+
+    for d1key in ['Div. 1', 'Div.1']:
+        if d1key in contest:
+            isD1 = True
+    for d2key in ['Div. 2', 'Div.2']:
+        if d2key in contest:
+            isD2 = True
+
+    problems = r['problems']
+    probdf = pd.DataFrame.from_dict(problems)
+
+    probdf['contestID'] = contestID
+    probdf['contestName'] = contest
+    probdf['startTimeSeconds'] = startTimeSeconds
+
+    probdf['division'] = 12
+    if isD1 and not isD2: probdf['division'] = 1
+    if isD2 and not isD1: probdf['division'] = 2
+
+    return probdf
 
 def getSolveSuccessDF(contestID):
 #contestID = 671
