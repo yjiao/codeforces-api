@@ -104,7 +104,6 @@ def getSolveSuccessDF(contestID):
     output = pd.DataFrame.from_dict(array_out)
     return output
 
-
 def getContestList():
     url_contest = 'http://codeforces.com/api/contest.list?gym=false'
     r = requests.get(url_contest) #ther eare some issues with Russian letters in contest names
@@ -112,3 +111,8 @@ def getContestList():
     contests = r.json()['result']
     df_contests = pd.DataFrame.from_dict(contests)
     return list(df_contests.loc[df_contests.phase == 'FINISHED']['id'])
+
+
+
+
+
