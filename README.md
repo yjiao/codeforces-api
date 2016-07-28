@@ -4,17 +4,14 @@
 
 
 ## Functions
-**api_functions.py** contains functions to parse information using APIs provided by codeforces.
-
-**elo.py** was used to calculate problem ratings.
-
-**blogPost_v1.ipynb** is a jupyter/iPython notebook that contains Python and R scripts used to generate figures for our first blog post.
-
-**prob_duplicates.py** identifies probable duplicated problems.
+* **api_functions.py** contains functions to parse information using APIs provided by codeforces.
+* **elo.py** was used to calculate problem ratings.
+* **blogPost_v1.ipynb** is a jupyter/iPython notebook that contains Python and R scripts used to generate figures for our first blog post.
+* **prob_duplicates.py** identifies probable duplicated problems.
 
 
 ## Files
-**problem_duplicates.csv** A list of duplicated problems between Div. 1 and Div. 2.
-**problem_ratings.csv**	Problem ratings from elo.py.
-**rating_histories.csv** Rating history of active users who competed in at least 15 competitions.
+* **problem_duplicates.csv** A list of duplicated problems between Div. 1 and Div. 2.
+* **problem_ratings.csv**	Problem ratings from elo.py.
+* **rating_histories.csv** Rating history of active users who competed in at least 15 competitions.
 
