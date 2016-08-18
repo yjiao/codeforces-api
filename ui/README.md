@@ -3,16 +3,22 @@
 The scripts in this folder creates individualized user profiles similar to those found [here](http://codeforces.com/blog/entry/46304). In this bare bones version, plots are made in R and aggregated in a HTML page.
 
 ## Requirements
-- R (scripts were written under version 3.2.4)
+- R (scripts were written under version 3.2.4).
+- The R graphics package, ggplot2 
 - Python 2.7
 
 ## Usage
+
+R can be downloaded [here](https://cran.r-project.org/). To install ggplot2 in R, type "R" in terminal to open the commandline interface for R, and enter the following:
+
 ```
-chmod +x createReport.sh
+install.packages('ggplot2')
 ```
+
 Generate report:
 
 ```
+chmod +x createReport.sh
 ./createReport.sh -n --handle=yourCodeforcesHandle
 ```
 Example script output:
