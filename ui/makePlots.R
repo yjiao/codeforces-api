@@ -1,5 +1,4 @@
 library(ggplot2)
-library(ggrepel)
 
 # read in dataframes
 df_activity <- read.table('user_activity.csv', header=T, stringsAsFactors=F, sep=',', comment.char='', quote='"')
@@ -134,7 +133,7 @@ d <- ggplot() +
         panel.border = element_blank(),
         panel.background = element_blank(),
         axis.ticks = element_blank(),
-        axis.text = element_text(color='white'),
+        axis.text.x = element_text(color='white'),
 	plot.margin = unit(c(0,0,0,0), "cm"),
 	panel.margin = unit(c(0,0,0,0), "cm")
     ) +
@@ -213,6 +212,17 @@ png('img_timeTrend.png', width=800, height=400)
 print(g)
 dev.off()
 
+## Problems solved over time
+nweeks <- difftime(max(df_activity$date), min(df_activity$date), units='weeks')
+
+g <- ggplot(df_activity) +
+    geom_freqpoly(aes(x=date, color=language), bins=nweeks/4) +
+    theme(legend.position='bottom') +
+    labs(x='Date', y='Problems solved')
+
+png('img_langTrend.png', width=800, height=400)
+print(g)
+dev.off()
 
 
 
