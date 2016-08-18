@@ -190,7 +190,7 @@ dev.off()
 df_labels <- aggregate(problemRating ~ tags , df_tags, function(i) round(mean(i)))
 
 f <- ggplot(df_tags, aes(x=tags, y=problemRating)) +
-    geom_boxplot(outlier.size = 0) +
+    geom_boxplot(outlier.shape=NA) +
     geom_jitter(aes(color=color), size=.2, width=.8) +
     scale_color_manual(values=color_rating) +
     theme(legend.position='none',
