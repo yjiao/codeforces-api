@@ -12,6 +12,47 @@ Generate report:
 ```
 ./createReport.sh -n --handle=yourCodeforcesHandle
 ```
+Example script output:
+```
+=================================================================
+Creating report for yj12, update = true...
+0. Updating data required for creating plots...
+   ------------------------------------
+   Updating problem ratings file: problem_ratings.csv
+   Problem ratings file up to date.
+   ------------------------------------
+   Updating problem data file: problem_data.csv
+   Problem ratings file up to date.
+   ------------------------------------
+   Getting all user problem submission information for: yj12
+   ------------------------------------
+   Getting user rating history for: yj12
+1. Checking that all required csv files exist...
+   problem_data.csv found
+   problem_ratings.csv found
+   user_activity.csv found
+   user_rating.csv found
+2. Creating plots...
+There were 50 or more warnings (use warnings() to see the first 50)
+Warning messages:
+1: In max(df$problemRating) :
+  no non-missing arguments to max; returning -Inf
+2: In max(df$problemRating) :
+  no non-missing arguments to max; returning -Inf
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+null device 
+          1 
+Profile completed. Please open report.html to view your profile.
+
+```
+
 
 View report:
 
