@@ -87,7 +87,7 @@ if __name__ == "__main__":
     if isfile(args.outputFile):
 	if args.forceUpdate:
 	    sys.stderr.write(args.outputFile + " found, -f flag set, overwriting...\n")
-	    fh = open(args.outputFile, 'a')
+	    fh = open(args.outputFile, 'w')
 	else:
 	    sys.stderr.write(args.outputFile + " found, opening in append mode...\n")
 	    fh = open(args.outputFile, 'a')
@@ -97,7 +97,8 @@ if __name__ == "__main__":
 
     if contestID != "0": # calculate problem ratings for a specific competition
         df = get_contest_elo(contestID)
-	df.to_csv(fh)
+	df.to_csv(fh, header=True, index=False)
+
     else: # calculate problem ratings for all currently available contests
 
         for cid in af.getContestList():
