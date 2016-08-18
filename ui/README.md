@@ -19,7 +19,7 @@ Generate report:
 
 ```
 chmod +x createReport.sh
-./createReport.sh -n --handle=yourCodeforcesHandle
+./createReport.sh --handle=yourCodeforcesHandle
 ```
 Example script output:
 ```
