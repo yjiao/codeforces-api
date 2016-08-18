@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import sys
+from os.path import isfile
 import time
 import math
 import argparse
@@ -19,10 +20,12 @@ MAXITER = 20
 
 def readCL():
     parser = argparse.ArgumentParser()
-    parser.add_argument("-c", "--contestID", default="0")
+    parser.add_argument("-c", "--contestID", default="0", type=str, help="ID of contest to query. A default value of 0 calculates problem ratings for all competitions.")
+    parser.add_argument("-o", "--outputFile", default="problem_elos.csv", type=str, help="Name of output file.")
+    parser.add_argument("-f", "--forceUpdate", action='store_true', help="Overwrite previous file containing problem ratings, if exists.")
 
     args = parser.parse_args()
-    return args.contestID
+    return args
 
 def get_win_prob(ri, rj): # probability that rating ri beats rating rj
     return 1.0 / (1.0 + math.pow(10, (rj-ri) / 400.0))
@@ -76,12 +79,26 @@ def get_win_prob(ri, rj): # probability that rating ri beats rating rj
     return 1.0 / (1.0 + math.pow(10, (rj-ri)/400.0))
 
 if __name__ == "__main__":
-    contestID = readCL()
-
-    if contestID != "0":
-        print get_contest_elo(contestID)
+    args = readCL()
+    contestID = args.contestID
+    pd.options.mode.chained_assignment = None
+    
+    # file handling: figure out if user wants to append or not
+    if isfile(args.outputFile):
+	if args.forceUpdate:
+	    sys.stderr.write(args.outputFile + " found, -f flag set, overwriting...\n")
+	    fh = open(args.outputFile, 'a')
+	else:
+	    sys.stderr.write(args.outputFile + " found, opening in append mode...\n")
+	    fh = open(args.outputFile, 'a')
     else:
-        df = pd.DataFrame({})
+	sys.stderr.write(args.outputFile + " not found, creating new file...\n")
+	fh = open(args.outputFile, 'w')
+
+    if contestID != "0": # calculate problem ratings for a specific competition
+        df = get_contest_elo(contestID)
+	df.to_csv(fh)
+    else: # calculate problem ratings for all currently available contests
 
         for cid in af.getContestList():
             sys.stderr.write("Calculating ELO for contest " + str(cid) + ".\n")
@@ -89,10 +106,8 @@ if __name__ == "__main__":
             contest_elos = get_contest_elo(cid)
 
             if contest_elos is not None:
-                df = df.append(get_contest_elo(cid))
+		contest_elos.to_csv(fh, header=True, index=False)
                 sys.stderr.write("Got " + str(contest_elos.shape[0]) + " new rows.\n")
 
             sys.stderr.flush()
 
-            df = df.sort(["problemRating"])
-            df.to_csv('problem_elos.csv')
