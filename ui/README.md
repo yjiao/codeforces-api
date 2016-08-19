@@ -2,10 +2,12 @@
 
 The scripts in this folder creates individualized user profiles similar to those found [here](http://codeforces.com/blog/entry/46304). In this bare bones version, plots are made in R and aggregated in a HTML page. An example report can be seen by clicking on report.html in the current directory.
 
+
 ## Requirements
 - R (scripts were written under version 3.2.4).
 - The R graphics package, ggplot2 
 - Python 2.7
+
 
 ## Usage
 
@@ -21,7 +23,27 @@ Generate report:
 chmod +x createReport.sh
 ./createReport.sh --handle=yourCodeforcesHandle
 ```
-Example script output:
+
+View report:
+
+```
+open report.html
+```
+
+This will automatically update problem and user data, if new problems have been published on codeforces between runs. Note calculating problem ratings can be a bit slow depending on the number of contests elapsed between runs--this is limited by the speed of codeforces api. Usually tens of competitions will run in a few minutes.
+
+## Example Output
+
+![](https://github.com/yjiao/codeforces-api/blob/master/ui/img_userProgress.png?raw=true =600x)
+
+
+![](https://github.com/yjiao/codeforces-api/blob/master/ui/img_histogram.png?raw=true =600x)
+
+![](https://github.com/yjiao/codeforces-api/blob/master/ui/img_langTrend.png?raw=true =600x)
+
+![](https://github.com/yjiao/codeforces-api/blob/master/ui/img_tags.png?raw=true =600x)
+
+Script output (note warnings in ggplot are normal):
 ```
 =================================================================
 Creating report for yj12, update = true...
@@ -63,13 +85,7 @@ Profile completed. Please open report.html to view your profile.
 ```
 
 
-View report:
 
-```
-open report.html
-```
-
-This will automatically update problem and user data, if new problems have been published on codeforces between runs. Note calculating problem ratings can be a bit slow depending on the number of contests elapsed between runs--this is limited by the speed of codeforces api. Usually tens of competitions will run in a few minutes.
 
 ## History
 2016 08 18: barebones version uploaded.
