@@ -1,6 +1,6 @@
 # Custom User Profiles
 
-The scripts in this folder creates individualized user profiles similar to those found [here](http://codeforces.com/blog/entry/46304). In this bare bones version, plots are made in R and aggregated in a HTML page.
+The scripts in this folder creates individualized user profiles similar to those found [here](http://codeforces.com/blog/entry/46304). In this bare bones version, plots are made in R and aggregated in a HTML page. An example report can be seen by clicking on report.html in the current directory.
 
 ## Requirements
 - R (scripts were written under version 3.2.4).
