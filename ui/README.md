@@ -9,29 +9,30 @@ The scripts in this folder creates individualized user profiles similar to those
 - Python 2.7
 
 ## Installation
-To copy files from this repository into a directory of your choice:
+To copy files from this repository into a directory of your choice, run the following command. This will create a folder named `codeforces-api` in the current directory. Scripts for visualizing a user's statistics are in the `ui` folder.
 
 ```
 git clone https://github.com/yjiao/codeforces-api
 ```
-This will create a folder named codeforces-api in the current directory. Scripts for visualizing a user's statistics are in the ui folder.
 
 
-## Usage
-
-R can be downloaded [here](https://cran.r-project.org/). To install ggplot2 in R, type "R" in terminal to open the commandline interface for R, and enter the following:
+R can be downloaded [here](https://cran.r-project.org/). To install ggplot2 in R, type `R` in terminal to open the commandline interface for R, and enter the following:
 
 ```
 install.packages('ggplot2')
 ```
 
-Generate report:
+
+## Usage
+
+Generate your report:
 
 ```
 cd path-to-folder/codeforces-api/ui
 chmod +x createReport.sh
 ./createReport.sh --handle=yourCodeforcesHandle
 ```
+`path-to-folder` is the path to the folder you ran the `git clone` command in. `yourCodeforcesHandle` is the handle you use on codeforces.
 
 View report:
 
