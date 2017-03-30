@@ -29,7 +29,7 @@ def updateProblemData(prevFile, newFile, force):
     prevFile: name of local file containing problem data
     newFile: name of new file name with new problem data. Should be set to be the same as the prevFile for appending, unless currently debuggin
     """
-    df_prev = pd.DataFrame.from_csv(prevFile, index_col=None)
+    df_prev = pd.read_csv(prevFile, index_col=None, engine='c')
     
     cur_contests = api.getContestList()
     max_prev_contests = max(df_prev.contestID)
@@ -62,7 +62,7 @@ def updateProblemRating(prevFile, newFile, force):
     prevFile: name of local file containing problem ratings.
     newFile: name of new file name with new problem ratings. Should be set to be the same as the prevFile for appending, unless currently debuggin
     """
-    df_prev = pd.DataFrame.from_csv(prevFile, index_col=None)
+    df_prev = pd.read_csv(prevFile, index_col=None, engine='c')
     
     cur_contests = api.getContestList()
     max_prev_contests = max(df_prev.contestID)
@@ -80,9 +80,12 @@ def updateProblemRating(prevFile, newFile, force):
     if not dflist:
 	print "   Problem ratings file up to date."
 	return
-    problemRatings = pd.concat(dflist)
-    writeFile(problemRatings, newFile, force)
-    sys.stderr.write("Successfully wrote problem data from " + str(cnt) + " contests.")
+    try:
+        problemRatings = pd.concat(dflist)
+        writeFile(problemRatings, newFile, force)
+        sys.stderr.write("Successfully wrote problem data from " + str(cnt) + " contests.")
+    except:
+        print "     Error updating this round. Most likely because all rounds were unrated."
 
 def writeFile(data, outFile, force):
     # note: we can't just return a file handle here, although that would be more efficient. This is because whether we write the header or not is dependent on whether we are appending.

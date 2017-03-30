@@ -42,15 +42,15 @@ def get_problem_elo(problem_df):
 
     for i in range(MAXITER):
         mid = (lo + hi) / 2.0
-        problem_df["problemRating"] = mid 
-        expSolve = np.sum(problem_df.apply(process_row, axis = 1))
+        #expSolve = np.sum(problem_df.apply(process_row, axis = 1))
+        expSolve = np.sum(problem_df.rating.apply(lambda x: get_win_prob(x, mid)))
 
         if solveCnt > expSolve:
             hi = mid
         else:
             lo = mid
 
-    return int(round((lo + hi) / 2.0))
+    return int(round((lo + hi)/ 2.0))
 
 def get_contest_elo(contestID):
     try:

@@ -75,9 +75,6 @@ def get_contest_elo(contestID):
 
     return pd.DataFrame(data)
 
-def get_win_prob(ri, rj): # probability that rating ri beats rating rj
-    return 1.0 / (1.0 + math.pow(10, (rj-ri)/400.0))
-
 if __name__ == "__main__":
     args = readCL()
     contestID = args.contestID

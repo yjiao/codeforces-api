@@ -1,4 +1,47 @@
 author,contestID,id,language,memoryBytes,participantType,passedTestCount,points,problem_index,problem_name,problem_tags,relativeTimeSeconds,startTimeSeconds,testset,timeMilliseconds,verdict
+yj12,789,25940071,GNU C++11,3686400,PRACTICE,52,1500.0,C,Functions again,"[data structures, dp, greedy]",2147483647,1490846468,TESTS,46,OK
+yj12,789,25940064,GNU C++11,0,PRACTICE,0,1500.0,C,Functions again,"[data structures, dp, greedy]",2147483647,1490846445,TESTS,0,COMPILATION_ERROR
+yj12,789,25940056,GNU C++11,0,PRACTICE,0,1500.0,C,Functions again,"[data structures, dp, greedy]",2147483647,1490846397,TESTS,0,COMPILATION_ERROR
+yj12,789,25930993,GNU C++11,5324800,PRACTICE,32,1000.0,B,Masha and geometric depression,"[brute force, implementation, math]",2147483647,1490815402,TESTS,62,WRONG_ANSWER
+yj12,789,25930163,GNU C++11,5324800,PRACTICE,42,1000.0,B,Masha and geometric depression,"[brute force, implementation, math]",2147483647,1490814643,TESTS,62,WRONG_ANSWER
+yj12,789,25926838,GNU C++11,2048000,CONTESTANT,1,1000.0,B,Masha and geometric depression,"[brute force, implementation, math]",6765,1490810265,PRETESTS,15,RUNTIME_ERROR
+yj12,789,25922867,GNU C++11,3072000,CONTESTANT,0,2250.0,D,Weird journey,[graphs],5694,1490809194,PRETESTS,0,WRONG_ANSWER
+yj12,789,25919398,GNU C++11,5324800,CONTESTANT,7,1000.0,B,Masha and geometric depression,"[brute force, implementation, math]",4763,1490808263,PRETESTS,46,WRONG_ANSWER
+yj12,789,25916463,GNU C++11,2867200,CONTESTANT,12,1500.0,C,Functions again,"[data structures, dp, greedy]",4022,1490807522,TESTS,31,WRONG_ANSWER
+yj12,789,25912326,GNU C++11,5324800,CONTESTANT,7,1000.0,B,Masha and geometric depression,"[brute force, implementation, math]",3049,1490806549,PRETESTS,77,WRONG_ANSWER
+yj12,789,25909470,GNU C++11,5324800,CONTESTANT,7,1000.0,B,Masha and geometric depression,"[brute force, implementation, math]",2411,1490805912,PRETESTS,62,WRONG_ANSWER
+yj12,789,25907193,GNU C++11,5324800,CONTESTANT,7,1000.0,B,Masha and geometric depression,"[brute force, implementation, math]",1917,1490805417,PRETESTS,62,WRONG_ANSWER
+yj12,789,25900212,GNU C++11,2048000,CONTESTANT,31,500.0,A,Anastasia and pebbles,"[greedy, implementation, math]",278,1490803778,TESTS,31,OK
+yj12,787,25776930,GNU C++11,2252800,PRACTICE,65,1000.0,B,Not Afraid,"[greedy, implementation]",2147483647,1490368739,TESTS,15,OK
+yj12,787,25776575,GNU C++11,2048000,PRACTICE,58,500.0,A,The Monster,"[brute force, math]",2147483647,1490367712,TESTS,15,OK
+yj12,787,25776091,GNU C++11,2048000,PRACTICE,34,500.0,A,The Monster,"[brute force, math]",2147483647,1490366457,TESTS,15,WRONG_ANSWER
+yj12,787,25754882,GNU C++11,2048000,PRACTICE,2,500.0,A,The Monster,"[brute force, math]",2147483647,1490293039,TESTS,15,WRONG_ANSWER
+yj12,337,25680427,GNU C++11,10240000,PRACTICE,25,2000.0,D,Book of Evil,"[dfs and similar, divide and conquer, dp, trees]",2147483647,1490073423,TESTS,156,OK
+yj12,337,25680330,GNU C++11,4403200,PRACTICE,4,2000.0,D,Book of Evil,"[dfs and similar, divide and conquer, dp, trees]",2147483647,1490072812,TESTS,30,RUNTIME_ERROR
+yj12,337,25674780,GNU C++11,3072000,PRACTICE,2,2000.0,D,Book of Evil,"[dfs and similar, divide and conquer, dp, trees]",2147483647,1490036213,TESTS,30,WRONG_ANSWER
+yj12,505,25140854,GNU C++11,62361600,PRACTICE,53,1500.0,C,"Mr. Kitayuta, the Treasure Hunter","[dfs and similar, dp, two pointers]",2147483647,1488434612,TESTS,78,OK
+yj12,678,25139901,GNU C++11,39936000,PRACTICE,41,0.0,E,Another Sith Tournament,"[bitmasks, dp]",2147483647,1488429196,TESTS,156,OK
+yj12,678,25139882,GNU C++11,39936000,PRACTICE,0,0.0,E,Another Sith Tournament,"[bitmasks, dp]",2147483647,1488429097,TESTS,15,WRONG_ANSWER
+yj12,678,25137564,GNU C++11,39936000,PRACTICE,3,0.0,E,Another Sith Tournament,"[bitmasks, dp]",2147483647,1488411006,TESTS,31,WRONG_ANSWER
+yj12,453,25135806,GNU C++11,112435200,PRACTICE,27,1000.0,B,Little Pony and Harmony Chest,"[bitmasks, brute force, dp]",2147483647,1488401197,TESTS,795,OK
+yj12,453,25135731,GNU C++11,112435200,PRACTICE,27,1000.0,B,Little Pony and Harmony Chest,"[bitmasks, brute force, dp]",2147483647,1488400898,TESTS,982,OK
+yj12,453,25135713,GNU C++11,112435200,PRACTICE,27,1000.0,B,Little Pony and Harmony Chest,"[bitmasks, brute force, dp]",2147483647,1488400821,TESTS,2199,OK
+yj12,453,25135698,GNU C++11,112435200,PRACTICE,27,1000.0,B,Little Pony and Harmony Chest,"[bitmasks, brute force, dp]",2147483647,1488400751,TESTS,2230,OK
+yj12,453,25135665,GNU C++11,112435200,PRACTICE,27,1000.0,B,Little Pony and Harmony Chest,"[bitmasks, brute force, dp]",2147483647,1488400625,TESTS,2402,OK
+yj12,453,25135583,GNU C++11,112435200,PRACTICE,27,1000.0,B,Little Pony and Harmony Chest,"[bitmasks, brute force, dp]",2147483647,1488400240,TESTS,2589,OK
+yj12,453,25135482,GNU C++11,112435200,PRACTICE,27,1000.0,B,Little Pony and Harmony Chest,"[bitmasks, brute force, dp]",2147483647,1488399842,TESTS,2293,OK
+yj12,453,25135363,GNU C++11,112435200,PRACTICE,27,1000.0,B,Little Pony and Harmony Chest,"[bitmasks, brute force, dp]",2147483647,1488399414,TESTS,3166,OK
+yj12,453,25135252,GNU C++11,222720000,PRACTICE,6,1000.0,B,Little Pony and Harmony Chest,"[bitmasks, brute force, dp]",2147483647,1488399049,TESTS,4000,TIME_LIMIT_EXCEEDED
+yj12,758,23967347,GNU C++11,2048000,CONTESTANT,9,1500.0,C,Unfair Poll,"[binary search, implementation, math]",7106,1484845406,PRETESTS,15,WRONG_ANSWER
+yj12,758,23963712,GNU C++11,2048000,CONTESTANT,4,1500.0,C,Unfair Poll,"[binary search, implementation, math]",5740,1484844040,PRETESTS,15,WRONG_ANSWER
+yj12,758,23955903,Python 2,4608000,CONTESTANT,16,1000.0,B,Blown Garland,[implementation],2092,1484840392,TESTS,46,RUNTIME_ERROR
+yj12,758,23947741,Python 2,4608000,CONTESTANT,41,500.0,A,Holiday Of Equality,"[implementation, math]",162,1484838462,TESTS,61,OK
+yj12,755,23866760,GNU C++11,3276800,PRACTICE,33,1000.0,B,PolandBall and Game,"[binary search, data structures, games, greedy, sortings]",2147483647,1484509692,TESTS,156,OK
+yj12,755,23866549,GNU C++11,3276800,PRACTICE,13,1000.0,B,PolandBall and Game,"[binary search, data structures, games, greedy, sortings]",2147483647,1484509524,TESTS,155,WRONG_ANSWER
+yj12,755,23860959,GNU C++11,2662400,CONTESTANT,29,1500.0,C,PolandBall and Forest,"[dfs and similar, dsu, graphs]",4616,1484504516,TESTS,78,OK
+yj12,755,23854805,GNU C++11,3276800,CONTESTANT,9,1000.0,B,PolandBall and Game,"[binary search, data structures, games, greedy, sortings]",1958,1484501858,TESTS,186,WRONG_ANSWER
+yj12,755,23849844,GNU C++11,6144000,CONTESTANT,63,500.0,A,PolandBall and Hypothesis,"[brute force, graphs, math]",729,1484500629,TESTS,31,OK
+yj12,733,23846484,GNU C++11,2048000,PRACTICE,4,1000.0,B,Parade,[math],2147483647,1484499479,TESTS,31,WRONG_ANSWER
 yj12,686,18785316,GNU C++11,102400,PRACTICE,37,1000.0,B,Little Robber Girl's Zoo,"[constructive algorithms, implementation, sortings]",2147483647,1467213620,TESTS,15,OK
 yj12,686,18785282,GNU C++11,0,PRACTICE,34,500.0,A,Free Ice Cream,"[constructive algorithms, implementation]",2147483647,1467213505,TESTS,15,OK
 yj12,513,18649066,GNU C++11,0,PRACTICE,32,4.0,B2,Permutations,"[bitmasks, divide and conquer, math]",2147483647,1466610102,TESTS2,15,OK
