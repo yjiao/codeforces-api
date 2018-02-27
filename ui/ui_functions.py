@@ -32,9 +32,11 @@ def updateProblemData(prevFile, newFile, force):
     df_prev = pd.read_csv(prevFile, index_col=None, engine='c')
     
     cur_contests = api.getContestList()
-    max_prev_contests = max(df_prev.contestID)
+#    max_prev_contests = max(df_prev.contestID)
     
-    new_contests = [c for c in cur_contests if c > max_prev_contests]
+    tmp_list = dict(df_prev.contestID)
+    new_contests = [c for c in cur_contests if c not in tmp_list]
+#    new_contests = [c for c in cur_contests if c > max_prev_contests]
     
     dflist = []
     cnt = 0
@@ -65,9 +67,11 @@ def updateProblemRating(prevFile, newFile, force):
     df_prev = pd.read_csv(prevFile, index_col=None, engine='c')
     
     cur_contests = api.getContestList()
-    max_prev_contests = max(df_prev.contestID)
+#    max_prev_contests = max(df_prev.contestID)
     
-    new_contests = [c for c in cur_contests if c > max_prev_contests]
+    tmp_list = dict(df_prev.contestID)
+    new_contests = [c for c in cur_contests if c not in tmp_list]
+#    new_contests = [c for c in cur_contests if c > max_prev_contests]
     
     dflist = []
     cnt = 0
