@@ -3408,3 +3408,774 @@ contestID,contestName,division,name,points,problemID,startTimeSeconds,tags,type
 712,Codeforces Round #370 (Div. 2),2,Memory and De-Evolution,1500.0,C,1473525900,"[greedy, math]",PROGRAMMING
 712,Codeforces Round #370 (Div. 2),2,Memory and Scores,2250.0,D,1473525900,"[combinatorics, dp]",PROGRAMMING
 712,Codeforces Round #370 (Div. 2),2,Memory and Casinos,2500.0,E,1473525900,"[data structures, math, probabilities]",PROGRAMMING
+935,Codeforces Round #465 (Div. 2),2,Fafa and his Company,500.0,A,1519058100,[brute force],PROGRAMMING
+935,Codeforces Round #465 (Div. 2),2,Fafa and the Gates,750.0,B,1519058100,[implementation],PROGRAMMING
+935,Codeforces Round #465 (Div. 2),2,Fifa and Fafa,1250.0,C,1519058100,[geometry],PROGRAMMING
+935,Codeforces Round #465 (Div. 2),2,Fafa and Ancient Alphabet,1750.0,D,1519058100,"[math, probabilities]",PROGRAMMING
+935,Codeforces Round #465 (Div. 2),2,Fafa and Ancient Mathematics,2250.0,E,1519058100,"[dp, trees]",PROGRAMMING
+935,Codeforces Round #465 (Div. 2),2,Fafa and Array,2750.0,F,1519058100,[data structures],PROGRAMMING
+939,Codeforces Round #464 (Div. 2),2,Love Triangle,500.0,A,1518861900,"[brute force, implementation]",PROGRAMMING
+939,Codeforces Round #464 (Div. 2),2,Hamster Farm,1000.0,B,1518861900,[implementation],PROGRAMMING
+939,Codeforces Round #464 (Div. 2),2,Convenient For Everybody,1500.0,C,1518861900,"[binary search, two pointers]",PROGRAMMING
+939,Codeforces Round #464 (Div. 2),2,Love Rescue,2000.0,D,1518861900,"[dfs and similar, dsu]",PROGRAMMING
+939,Codeforces Round #464 (Div. 2),2,Maximize!,2500.0,E,1518861900,"[binary search, greedy, ternary search, two pointers]",PROGRAMMING
+939,Codeforces Round #464 (Div. 2),2,Cutlet,2750.0,F,1518861900,"[data structures, dp]",PROGRAMMING
+938,Educational Codeforces Round 38 (Rated for Div. 2),2,Word Correction,,A,1518793500,[implementation],PROGRAMMING
+938,Educational Codeforces Round 38 (Rated for Div. 2),2,Run For Your Prize,,B,1518793500,[brute force],PROGRAMMING
+938,Educational Codeforces Round 38 (Rated for Div. 2),2,Constructing Tests,,C,1518793500,"[binary search, brute force]",PROGRAMMING
+938,Educational Codeforces Round 38 (Rated for Div. 2),2,Buy a Ticket,,D,1518793500,"[data structures, graphs, shortest paths]",PROGRAMMING
+938,Educational Codeforces Round 38 (Rated for Div. 2),2,Max History,,E,1518793500,"[combinatorics, math]",PROGRAMMING
+938,Educational Codeforces Round 38 (Rated for Div. 2),2,Erasing Substrings,,F,1518793500,"[bitmasks, dp, greedy]",PROGRAMMING
+938,Educational Codeforces Round 38 (Rated for Div. 2),2,Shortest Path Queries,,G,1518793500,"[bitmasks, data structures, graphs]",PROGRAMMING
+932,"ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)",12,Palindromic Supersequence,500.0,A,1518705300,[constructive algorithms],PROGRAMMING
+932,"ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)",12,Recursive Queries,1000.0,B,1518705300,"[data structures, dfs and similar]",PROGRAMMING
+932,"ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)",12,Permutation Cycle,1500.0,C,1518705300,"[brute force, constructive algorithms]",PROGRAMMING
+932,"ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)",12,Tree,2000.0,D,1518705300,"[binary search, dp, trees]",PROGRAMMING
+932,"ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)",12,Team Work,2500.0,E,1518705300,"[combinatorics, dp]",PROGRAMMING
+932,"ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)",12,Escape Through Leaf,2500.0,F,1518705300,"[data structures, dp, geometry]",PROGRAMMING
+932,"ICM Technex 2018 and Codeforces Round #463 (Div. 1 + Div. 2, combined)",12,Palindrome Partition,3000.0,G,1518705300,"[dp, strings]",PROGRAMMING
+933,Codeforces Round #462 (Div. 1),1,A Twisty Movement,500.0,A,1518609900,"[data structures, dp]",PROGRAMMING
+933,Codeforces Round #462 (Div. 1),1,A Determined Cleanup,750.0,B,1518609900,[math],PROGRAMMING
+933,Codeforces Round #462 (Div. 1),1,A Colourful Prospect,1500.0,C,1518609900,[geometry],PROGRAMMING
+933,Codeforces Round #462 (Div. 1),1,A Creative Cutout,2250.0,D,1518609900,"[brute force, combinatorics, math]",PROGRAMMING
+933,Codeforces Round #462 (Div. 1),1,A Preponderant Reunion,2500.0,E,1518609900,"[constructive algorithms, dp]",PROGRAMMING
+934,Codeforces Round #462 (Div. 2),2,A Compatible Pair,500.0,A,1518609900,[brute force],PROGRAMMING
+934,Codeforces Round #462 (Div. 2),2,A Prosperous Lot,1000.0,B,1518609900,[implementation],PROGRAMMING
+934,Codeforces Round #462 (Div. 2),2,A Twisty Movement,1500.0,C,1518609900,"[brute force, dp]",PROGRAMMING
+934,Codeforces Round #462 (Div. 2),2,A Determined Cleanup,2000.0,D,1518609900,[math],PROGRAMMING
+934,Codeforces Round #462 (Div. 2),2,A Colourful Prospect,2500.0,E,1518609900,[],PROGRAMMING
+922,Codeforces Round #461 (Div. 2),2,Cloning Toys,500.0,A,1518023700,[implementation],PROGRAMMING
+922,Codeforces Round #461 (Div. 2),2,Magic Forest,1000.0,B,1518023700,[brute force],PROGRAMMING
+922,Codeforces Round #461 (Div. 2),2,Cave Painting,1250.0,C,1518023700,"[brute force, number theory]",PROGRAMMING
+922,Codeforces Round #461 (Div. 2),2,Robot Vacuum Cleaner,1500.0,D,1518023700,"[greedy, sortings]",PROGRAMMING
+922,Codeforces Round #461 (Div. 2),2,Birds,2000.0,E,1518023700,[dp],PROGRAMMING
+922,Codeforces Round #461 (Div. 2),2,Divisibility,2750.0,F,1518023700,"[constructive algorithms, dp, greedy, number theory]",PROGRAMMING
+920,Educational Codeforces Round 37 (Rated for Div. 2),2,Water The Garden,,A,1517582100,[implementation],PROGRAMMING
+920,Educational Codeforces Round 37 (Rated for Div. 2),2,Tea Queue,,B,1517582100,[implementation],PROGRAMMING
+920,Educational Codeforces Round 37 (Rated for Div. 2),2,Swap Adjacent Elements,,C,1517582100,"[dfs and similar, greedy, sortings, two pointers]",PROGRAMMING
+920,Educational Codeforces Round 37 (Rated for Div. 2),2,Tanks,,D,1517582100,"[dp, greedy, implementation]",PROGRAMMING
+920,Educational Codeforces Round 37 (Rated for Div. 2),2,Connected Components?,,E,1517582100,"[data structures, dfs and similar, dsu, graphs]",PROGRAMMING
+920,Educational Codeforces Round 37 (Rated for Div. 2),2,SUM and REPLACE,,F,1517582100,"[brute force, data structures, number theory]",PROGRAMMING
+920,Educational Codeforces Round 37 (Rated for Div. 2),2,List Of Integers,,G,1517582100,"[binary search, bitmasks, brute force, combinatorics, math, number theory]",PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-1,,01,1517500800,[],PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-2,,02,1517500800,[],PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-3,,03,1517500800,[],PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-4,,04,1517500800,[],PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-5,,05,1517500800,[],PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-6,,06,1517500800,[],PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-7,,07,1517500800,[],PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-8,,08,1517500800,[],PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-9,,09,1517500800,[],PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-10,,10,1517500800,[],PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-11,,11,1517500800,[],PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-12,,12,1517500800,[],PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-13,,13,1517500800,[],PROGRAMMING
+921,AIM Tech Mini Marathon 1,12,Labyrinth-14,,14,1517500800,[],PROGRAMMING
+919,Codeforces Round #460 (Div. 2),2,Supermarket,500.0,A,1517403900,[greedy],PROGRAMMING
+919,Codeforces Round #460 (Div. 2),2,Perfect Number,750.0,B,1517403900,"[binary search, brute force, dp, implementation, number theory]",PROGRAMMING
+919,Codeforces Round #460 (Div. 2),2,Seat Arrangements,1000.0,C,1517403900,[implementation],PROGRAMMING
+919,Codeforces Round #460 (Div. 2),2,Substring,1500.0,D,1517403900,"[dfs and similar, dp, graphs]",PROGRAMMING
+919,Codeforces Round #460 (Div. 2),2,Congruence Equation,2000.0,E,1517403900,"[chinese remainder theorem, math, number theory]",PROGRAMMING
+919,Codeforces Round #460 (Div. 2),2,A Game With Numbers,2500.0,F,1517403900,"[games, graphs]",PROGRAMMING
+917,Codeforces Round #459 (Div. 1),1,The Monster,500.0,A,1517236500,[greedy],PROGRAMMING
+917,Codeforces Round #459 (Div. 1),1,MADMAX,750.0,B,1517236500,"[dp, games, graphs]",PROGRAMMING
+917,Codeforces Round #459 (Div. 1),1,Pollywog,1500.0,C,1517236500,[dp],PROGRAMMING
+917,Codeforces Round #459 (Div. 1),1,Stranger Trees,2000.0,D,1517236500,"[dp, math, matrices, trees]",PROGRAMMING
+917,Codeforces Round #459 (Div. 1),1,Upside Down,2750.0,E,1517236500,"[data structures, string suffix structures, strings, trees]",PROGRAMMING
+918,Codeforces Round #459 (Div. 2),2,Eleven,500.0,A,1517236500,[implementation],PROGRAMMING
+918,Codeforces Round #459 (Div. 2),2,Radio Station,1000.0,B,1517236500,[implementation],PROGRAMMING
+918,Codeforces Round #459 (Div. 2),2,The Monster,1500.0,C,1517236500,"[data structures, greedy]",PROGRAMMING
+918,Codeforces Round #459 (Div. 2),2,MADMAX,1750.0,D,1517236500,"[dfs and similar, dp, games]",PROGRAMMING
+918,Codeforces Round #459 (Div. 2),2,Pollywog,2500.0,E,1517236500,[],PROGRAMMING
+914,"Codecraft-18 and Codeforces Round #458 (Div. 1 + Div. 2, combined)",12,Perfect Squares,500.0,A,1516462500,"[implementation, math]",PROGRAMMING
+914,"Codecraft-18 and Codeforces Round #458 (Div. 1 + Div. 2, combined)",12,Conan and Agasa play a Card Game,1000.0,B,1516462500,"[games, greedy]",PROGRAMMING
+914,"Codecraft-18 and Codeforces Round #458 (Div. 1 + Div. 2, combined)",12,Travelling Salesman and Special Numbers,1500.0,C,1516462500,"[brute force, combinatorics, dp]",PROGRAMMING
+914,"Codecraft-18 and Codeforces Round #458 (Div. 1 + Div. 2, combined)",12,Bash and a Tough Math Puzzle,2000.0,D,1516462500,"[data structures, number theory]",PROGRAMMING
+914,"Codecraft-18 and Codeforces Round #458 (Div. 1 + Div. 2, combined)",12,Palindromes in a Tree,2500.0,E,1516462500,"[bitmasks, divide and conquer, trees]",PROGRAMMING
+914,"Codecraft-18 and Codeforces Round #458 (Div. 1 + Div. 2, combined)",12,Substrings in a String,3000.0,F,1516462500,"[bitmasks, brute force, string suffix structures, strings]",PROGRAMMING
+914,"Codecraft-18 and Codeforces Round #458 (Div. 1 + Div. 2, combined)",12,Sum the Fibonacci,3500.0,G,1516462500,"[bitmasks, divide and conquer]",PROGRAMMING
+914,"Codecraft-18 and Codeforces Round #458 (Div. 1 + Div. 2, combined)",12,Ember and Storm's Tree Game,3750.0,H,1516462500,"[combinatorics, dp, games, trees]",PROGRAMMING
+916,Codeforces Round #457 (Div. 2),2,Jamie and Alarm Snooze,500.0,A,1516372500,"[brute force, implementation]",PROGRAMMING
+916,Codeforces Round #457 (Div. 2),2,Jamie and Binary Sequence (changed after round),1000.0,B,1516372500,"[bitmasks, greedy]",PROGRAMMING
+916,Codeforces Round #457 (Div. 2),2,Jamie and Interesting Graph,1500.0,C,1516372500,"[constructive algorithms, graphs, shortest paths]",PROGRAMMING
+916,Codeforces Round #457 (Div. 2),2,Jamie and To-do List,2250.0,D,1516372500,"[data structures, trees]",PROGRAMMING
+916,Codeforces Round #457 (Div. 2),2,Jamie and Tree,2500.0,E,1516372500,"[data structures, trees]",PROGRAMMING
+915,Educational Codeforces Round 36 (Rated for Div. 2),2,Garden,,A,1515848700,[implementation],PROGRAMMING
+915,Educational Codeforces Round 36 (Rated for Div. 2),2,Browser,,B,1515848700,[implementation],PROGRAMMING
+915,Educational Codeforces Round 36 (Rated for Div. 2),2,Permute Digits,,C,1515848700,"[dp, greedy]",PROGRAMMING
+915,Educational Codeforces Round 36 (Rated for Div. 2),2,Almost Acyclic Graph,,D,1515848700,"[dfs and similar, graphs]",PROGRAMMING
+915,Educational Codeforces Round 36 (Rated for Div. 2),2,Physical Education Lessons,,E,1515848700,"[data structures, implementation, sortings]",PROGRAMMING
+915,Educational Codeforces Round 36 (Rated for Div. 2),2,Imbalance Value of a Tree,,F,1515848700,"[data structures, dsu, graphs, trees]",PROGRAMMING
+915,Educational Codeforces Round 36 (Rated for Div. 2),2,Coprime Arrays,,G,1515848700,"[math, number theory]",PROGRAMMING
+913,Hello 2018,12,Modular Exponentiation,500.0,A,1515422700,[implementation],PROGRAMMING
+913,Hello 2018,12,Christmas Spruce,750.0,B,1515422700,"[implementation, trees]",PROGRAMMING
+913,Hello 2018,12,Party Lemonade,1000.0,C,1515422700,"[bitmasks, dp, greedy]",PROGRAMMING
+913,Hello 2018,12,Too Easy Problems,1250.0,D,1515422700,"[binary search, brute force, data structures, greedy, sortings]",PROGRAMMING
+913,Hello 2018,12,Logical Expression,1750.0,E,1515422700,"[bitmasks, dp, shortest paths]",PROGRAMMING
+913,Hello 2018,12,Strongly Connected Tournament,2250.0,F,1515422700,"[dp, graphs, probabilities]",PROGRAMMING
+913,Hello 2018,12,Power Substring,3000.0,G,1515422700,"[math, number theory]",PROGRAMMING
+913,Hello 2018,12,Don't Exceed,3500.0,H,1515422700,"[math, probabilities]",PROGRAMMING
+912,Codeforces Round #456 (Div. 2),2,Tricky Alchemy,500.0,A,1515162900,[implementation],PROGRAMMING
+912,Codeforces Round #456 (Div. 2),2,New Year's Eve,1000.0,B,1515162900,"[bitmasks, constructive algorithms]",PROGRAMMING
+912,Codeforces Round #456 (Div. 2),2,"Perun, Ult!",1750.0,C,1515162900,"[brute force, greedy, sortings]",PROGRAMMING
+912,Codeforces Round #456 (Div. 2),2,Fishes,2000.0,D,1515162900,"[data structures, probabilities]",PROGRAMMING
+912,Codeforces Round #456 (Div. 2),2,Prime Gift,2500.0,E,1515162900,"[binary search, dfs and similar, math, meet-in-the-middle, number theory, two pointers]",PROGRAMMING
+908,Good Bye 2017,12,New Year and Counting Cards,500.0,A,1514562000,[implementation],PROGRAMMING
+908,Good Bye 2017,12,New Year and Buggy Bot,750.0,B,1514562000,"[brute force, implementation]",PROGRAMMING
+908,Good Bye 2017,12,New Year and Curling,1000.0,C,1514562000,"[brute force, geometry, implementation, math]",PROGRAMMING
+908,Good Bye 2017,12,New Year and Arbitrary Arrangement,1750.0,D,1514562000,"[dp, math, probabilities]",PROGRAMMING
+908,Good Bye 2017,12,New Year and Entity Enumeration,1750.0,E,1514562000,"[bitmasks, combinatorics, dp, math]",PROGRAMMING
+908,Good Bye 2017,12,New Year and Rainbow Roads,2000.0,F,1514562000,"[graphs, greedy, implementation]",PROGRAMMING
+908,Good Bye 2017,12,New Year and Original Order,2750.0,G,1514562000,"[dp, math]",PROGRAMMING
+908,Good Bye 2017,12,New Year and Boolean Bridges,3500.0,H,1514562000,[],PROGRAMMING
+911,Educational Codeforces Round 35 (Rated for Div. 2),2,Nearest Minimums,,A,1514469900,[implementation],PROGRAMMING
+911,Educational Codeforces Round 35 (Rated for Div. 2),2,Two Cakes,,B,1514469900,"[binary search, brute force, implementation]",PROGRAMMING
+911,Educational Codeforces Round 35 (Rated for Div. 2),2,Three Garlands,,C,1514469900,"[brute force, constructive algorithms]",PROGRAMMING
+911,Educational Codeforces Round 35 (Rated for Div. 2),2,Inversion Counting,,D,1514469900,"[brute force, math]",PROGRAMMING
+911,Educational Codeforces Round 35 (Rated for Div. 2),2,Stack Sorting,,E,1514469900,"[data structures, implementation]",PROGRAMMING
+911,Educational Codeforces Round 35 (Rated for Div. 2),2,Tree Destruction,,F,1514469900,"[constructive algorithms, dfs and similar, greedy, trees]",PROGRAMMING
+911,Educational Codeforces Round 35 (Rated for Div. 2),2,Mass Change Queries,,G,1514469900,[data structures],PROGRAMMING
+909,Codeforces Round #455 (Div. 2),2,Generate Login,500.0,A,1514392500,"[brute force, greedy, sortings]",PROGRAMMING
+909,Codeforces Round #455 (Div. 2),2,Segments,1000.0,B,1514392500,"[constructive algorithms, math]",PROGRAMMING
+909,Codeforces Round #455 (Div. 2),2,Python Indentation,1500.0,C,1514392500,[dp],PROGRAMMING
+909,Codeforces Round #455 (Div. 2),2,Colorful Points,1750.0,D,1514392500,"[data structures, greedy, implementation]",PROGRAMMING
+909,Codeforces Round #455 (Div. 2),2,Coprocessor,2000.0,E,1514392500,"[dfs and similar, dp, graphs, greedy]",PROGRAMMING
+909,Codeforces Round #455 (Div. 2),2,AND-permutations,2500.0,F,1514392500,[constructive algorithms],PROGRAMMING
+904,Технокубок 2018 - Отборочный Раунд 4,12,Masha and Bears,500.0,A,1514037900,[],PROGRAMMING
+904,Технокубок 2018 - Отборочный Раунд 4,12,Tic-Tac-Toe,1000.0,B,1514037900,[],PROGRAMMING
+904,Технокубок 2018 - Отборочный Раунд 4,12,Shockers,1500.0,C,1514037900,[],PROGRAMMING
+904,Технокубок 2018 - Отборочный Раунд 4,12,Seating of Students,2250.0,D,1514037900,[constructive algorithms],PROGRAMMING
+904,Технокубок 2018 - Отборочный Раунд 4,12,Party,2250.0,E,1514037900,[],PROGRAMMING
+904,Технокубок 2018 - Отборочный Раунд 4,12,Power Tower,3000.0,F,1514037900,[],PROGRAMMING
+906,"Codeforces Round #454 (Div. 1, based on Technocup 2018 Elimination Round 4)",1,Shockers,500.0,A,1514037900,[implementation],PROGRAMMING
+906,"Codeforces Round #454 (Div. 1, based on Technocup 2018 Elimination Round 4)",1,Seating of Students,1250.0,B,1514037900,"[brute force, constructive algorithms, math]",PROGRAMMING
+906,"Codeforces Round #454 (Div. 1, based on Technocup 2018 Elimination Round 4)",1,Party,1250.0,C,1514037900,"[bitmasks, brute force, dp, graphs]",PROGRAMMING
+906,"Codeforces Round #454 (Div. 1, based on Technocup 2018 Elimination Round 4)",1,Power Tower,2000.0,D,1514037900,"[chinese remainder theorem, math, number theory]",PROGRAMMING
+906,"Codeforces Round #454 (Div. 1, based on Technocup 2018 Elimination Round 4)",1,Reverses,2500.0,E,1514037900,"[dp, string suffix structures, strings]",PROGRAMMING
+907,"Codeforces Round #454 (Div. 2, based on Technocup 2018 Elimination Round 4)",2,Masha and Bears,500.0,A,1514037900,"[brute force, implementation]",PROGRAMMING
+907,"Codeforces Round #454 (Div. 2, based on Technocup 2018 Elimination Round 4)",2,Tic-Tac-Toe,1000.0,B,1514037900,[implementation],PROGRAMMING
+907,"Codeforces Round #454 (Div. 2, based on Technocup 2018 Elimination Round 4)",2,Shockers,1500.0,C,1514037900,"[bitmasks, implementation]",PROGRAMMING
+907,"Codeforces Round #454 (Div. 2, based on Technocup 2018 Elimination Round 4)",2,Seating of Students,2250.0,D,1514037900,[],PROGRAMMING
+907,"Codeforces Round #454 (Div. 2, based on Technocup 2018 Elimination Round 4)",2,Party,2250.0,E,1514037900,"[bitmasks, dp]",PROGRAMMING
+907,"Codeforces Round #454 (Div. 2, based on Technocup 2018 Elimination Round 4)",2,Power Tower,3000.0,F,1514037900,[],PROGRAMMING
+910,Testing Round #14 (Unrated),12,The Way to Home,500.0,A,1513940700,"[dfs and similar, dp, greedy]",PROGRAMMING
+910,Testing Round #14 (Unrated),12,Door Frames,1000.0,B,1513940700,"[greedy, implementation]",PROGRAMMING
+910,Testing Round #14 (Unrated),12,Minimum Sum,1500.0,C,1513940700,[greedy],PROGRAMMING
+901,Codeforces Round #453 (Div. 1),1,Hashing Trees,500.0,A,1513697700,"[constructive algorithms, trees]",PROGRAMMING
+901,Codeforces Round #453 (Div. 1),1,GCD of Polynomials,1000.0,B,1513697700,"[constructive algorithms, math]",PROGRAMMING
+901,Codeforces Round #453 (Div. 1),1,Bipartite Segments,1750.0,C,1513697700,"[binary search, data structures, dfs and similar, dsu, graphs, two pointers]",PROGRAMMING
+901,Codeforces Round #453 (Div. 1),1,Weighting a Tree,2000.0,D,1513697700,"[constructive algorithms, dfs and similar, graphs]",PROGRAMMING
+901,Codeforces Round #453 (Div. 1),1,Cyclic Cipher,2500.0,E,1513697700,[fft],PROGRAMMING
+902,Codeforces Round #453 (Div. 2),2,Visiting a Friend,500.0,A,1513697700,[implementation],PROGRAMMING
+902,Codeforces Round #453 (Div. 2),2,Coloring a Tree,1000.0,B,1513697700,"[dfs and similar, dsu]",PROGRAMMING
+902,Codeforces Round #453 (Div. 2),2,Hashing Trees,1500.0,C,1513697700,[],PROGRAMMING
+902,Codeforces Round #453 (Div. 2),2,GCD of Polynomials,2000.0,D,1513697700,[math],PROGRAMMING
+902,Codeforces Round #453 (Div. 2),2,Bipartite Segments,2750.0,E,1513697700,"[data structures, dfs and similar]",PROGRAMMING
+899,Codeforces Round #452 (Div. 2),2,Splitting in Teams,500.0,A,1513492500,[greedy],PROGRAMMING
+899,Codeforces Round #452 (Div. 2),2,Months and Years,1000.0,B,1513492500,[implementation],PROGRAMMING
+899,Codeforces Round #452 (Div. 2),2,Dividing the numbers,1500.0,C,1513492500,"[constructive algorithms, graphs]",PROGRAMMING
+899,Codeforces Round #452 (Div. 2),2,Shovel Sale,1750.0,D,1513492500,[math],PROGRAMMING
+899,Codeforces Round #452 (Div. 2),2,Segments Removal,2250.0,E,1513492500,"[data structures, dsu, flows, two pointers]",PROGRAMMING
+899,Codeforces Round #452 (Div. 2),2,Letters Removing,2500.0,F,1513492500,[data structures],PROGRAMMING
+898,Codeforces Round #451 (Div. 2),2,Rounding,500.0,A,1513424100,[implementation],PROGRAMMING
+898,Codeforces Round #451 (Div. 2),2,Proper Nutrition,750.0,B,1513424100,"[brute force, number theory]",PROGRAMMING
+898,Codeforces Round #451 (Div. 2),2,Phone Numbers,1500.0,C,1513424100,"[implementation, strings]",PROGRAMMING
+898,Codeforces Round #451 (Div. 2),2,Alarm Clock,1750.0,D,1513424100,[greedy],PROGRAMMING
+898,Codeforces Round #451 (Div. 2),2,Squares and not squares,2000.0,E,1513424100,[greedy],PROGRAMMING
+898,Codeforces Round #451 (Div. 2),2,Restoring the Expression,2500.0,F,1513424100,"[brute force, hashing, math]",PROGRAMMING
+903,Educational Codeforces Round 34 (Rated for Div. 2),2,Hungry Student Problem,,A,1513091100,[greedy],PROGRAMMING
+903,Educational Codeforces Round 34 (Rated for Div. 2),2,The Modcrab,,B,1513091100,[greedy],PROGRAMMING
+903,Educational Codeforces Round 34 (Rated for Div. 2),2,Boxes Packing,,C,1513091100,[greedy],PROGRAMMING
+903,Educational Codeforces Round 34 (Rated for Div. 2),2,Almost Difference,,D,1513091100,[math],PROGRAMMING
+903,Educational Codeforces Round 34 (Rated for Div. 2),2,Swapping Characters,,E,1513091100,"[hashing, implementation, strings]",PROGRAMMING
+903,Educational Codeforces Round 34 (Rated for Div. 2),2,Clear The Matrix,,F,1513091100,"[bitmasks, dp]",PROGRAMMING
+903,Educational Codeforces Round 34 (Rated for Div. 2),2,Yet Another Maxflow Problem,,G,1513091100,"[data structures, flows]",PROGRAMMING
+900,Codeforces Round #450 (Div. 2),2,Find Extra One,500.0,A,1513008300,[implementation],PROGRAMMING
+900,Codeforces Round #450 (Div. 2),2,Position in Fraction,1000.0,B,1513008300,[math],PROGRAMMING
+900,Codeforces Round #450 (Div. 2),2,Remove Extra One,1500.0,C,1513008300,"[brute force, data structures]",PROGRAMMING
+900,Codeforces Round #450 (Div. 2),2,Unusual Sequences,2000.0,D,1513008300,"[bitmasks, combinatorics, dp, math, number theory]",PROGRAMMING
+900,Codeforces Round #450 (Div. 2),2,Maximum Questions,2500.0,E,1513008300,"[data structures, dp, strings]",PROGRAMMING
+896,Codeforces Round #449 (Div. 1),1,Nephren gives a riddle,500.0,A,1512223500,[dfs and similar],PROGRAMMING
+896,Codeforces Round #449 (Div. 1),1,Ithea Plays With Chtholly,1000.0,B,1512223500,"[games, greedy]",PROGRAMMING
+896,Codeforces Round #449 (Div. 1),1,"Willem, Chtholly and Seniorious",1500.0,C,1512223500,[probabilities],PROGRAMMING
+896,Codeforces Round #449 (Div. 1),1,Nephren Runs a Cinema,2000.0,D,1512223500,"[chinese remainder theorem, combinatorics, math, number theory]",PROGRAMMING
+896,Codeforces Round #449 (Div. 1),1,"Welcome home, Chtholly",2500.0,E,1512223500,"[data structures, dsu]",PROGRAMMING
+897,Codeforces Round #449 (Div. 2),2,Scarborough Fair,500.0,A,1512223500,[implementation],PROGRAMMING
+897,Codeforces Round #449 (Div. 2),2,Chtholly's request,1000.0,B,1512223500,[brute force],PROGRAMMING
+897,Codeforces Round #449 (Div. 2),2,Nephren gives a riddle,1500.0,C,1512223500,"[combinatorics, math]",PROGRAMMING
+897,Codeforces Round #449 (Div. 2),2,Ithea Plays With Chtholly,2000.0,D,1512223500,[implementation],PROGRAMMING
+897,Codeforces Round #449 (Div. 2),2,"Willem, Chtholly and Seniorious",2500.0,E,1512223500,[],PROGRAMMING
+895,Codeforces Round #448 (Div. 2),2,Pizza Separation,500.0,A,1511712300,[brute force],PROGRAMMING
+895,Codeforces Round #448 (Div. 2),2,XK Segments,1000.0,B,1511712300,"[binary search, sortings, two pointers]",PROGRAMMING
+895,Codeforces Round #448 (Div. 2),2,Square Subsets,1750.0,C,1511712300,"[bitmasks, combinatorics, dp, math]",PROGRAMMING
+895,Codeforces Round #448 (Div. 2),2,String Mark,2000.0,D,1511712300,"[combinatorics, math, strings]",PROGRAMMING
+895,Codeforces Round #448 (Div. 2),2,Eyes Closed,2250.0,E,1511712300,"[data structures, probabilities]",PROGRAMMING
+893,Educational Codeforces Round 33 (Rated for Div. 2),2,Chess For Three,,A,1511449500,[implementation],PROGRAMMING
+893,Educational Codeforces Round 33 (Rated for Div. 2),2,Beautiful Divisors,,B,1511449500,[brute force],PROGRAMMING
+893,Educational Codeforces Round 33 (Rated for Div. 2),2,Rumor,,C,1511449500,[dfs and similar],PROGRAMMING
+893,Educational Codeforces Round 33 (Rated for Div. 2),2,Credit Card,,D,1511449500,"[data structures, dp, greedy, implementation]",PROGRAMMING
+893,Educational Codeforces Round 33 (Rated for Div. 2),2,Counting Arrays,,E,1511449500,"[combinatorics, dp, number theory]",PROGRAMMING
+893,Educational Codeforces Round 33 (Rated for Div. 2),2,Subtree Minimum Query,,F,1511449500,"[data structures, trees]",PROGRAMMING
+894,Codeforces Round #447 (Div. 2),2,QAQ,500.0,A,1511099700,"[brute force, dp]",PROGRAMMING
+894,Codeforces Round #447 (Div. 2),2,Ralph And His Magic Field,1000.0,B,1511099700,"[combinatorics, math, number theory]",PROGRAMMING
+894,Codeforces Round #447 (Div. 2),2,Marco and GCD Sequence,1500.0,C,1511099700,"[constructive algorithms, math]",PROGRAMMING
+894,Codeforces Round #447 (Div. 2),2,Ralph And His Tour in Binary Country,2000.0,D,1511099700,"[data structures, trees]",PROGRAMMING
+894,Codeforces Round #447 (Div. 2),2,Ralph and Mushrooms,2500.0,E,1511099700,"[dp, graphs]",PROGRAMMING
+891,Codeforces Round #446 (Div. 1),1,Pride,500.0,A,1510929300,"[brute force, dp, greedy, math, number theory]",PROGRAMMING
+891,Codeforces Round #446 (Div. 1),1,Gluttony,1000.0,B,1510929300,[constructive algorithms],PROGRAMMING
+891,Codeforces Round #446 (Div. 1),1,Envy,1500.0,C,1510929300,"[data structures, dsu, graphs]",PROGRAMMING
+891,Codeforces Round #446 (Div. 1),1,Sloth,2000.0,D,1510929300,"[dfs and similar, dp, graph matchings, trees]",PROGRAMMING
+891,Codeforces Round #446 (Div. 1),1,Lust,2500.0,E,1510929300,"[combinatorics, math]",PROGRAMMING
+892,Codeforces Round #446 (Div. 2),2,Greed,500.0,A,1510929300,[implementation],PROGRAMMING
+892,Codeforces Round #446 (Div. 2),2,Wrath,1000.0,B,1510929300,"[implementation, two pointers]",PROGRAMMING
+892,Codeforces Round #446 (Div. 2),2,Pride,1500.0,C,1510929300,[greedy],PROGRAMMING
+892,Codeforces Round #446 (Div. 2),2,Gluttony,2000.0,D,1510929300,[constructive algorithms],PROGRAMMING
+892,Codeforces Round #446 (Div. 2),2,Envy,2500.0,E,1510929300,[],PROGRAMMING
+886,Технокубок 2018 - Отборочный Раунд 3,12,ACM ICPC,500.0,A,1510502700,[brute force],PROGRAMMING
+886,Технокубок 2018 - Отборочный Раунд 3,12,Vlad and Cafes,1000.0,B,1510502700,[],PROGRAMMING
+886,Технокубок 2018 - Отборочный Раунд 3,12,Petya and Catacombs,1500.0,C,1510502700,"[dsu, greedy]",PROGRAMMING
+886,Технокубок 2018 - Отборочный Раунд 3,12,Restoration of string,2000.0,D,1510502700,"[constructive algorithms, graphs, implementation]",PROGRAMMING
+886,Технокубок 2018 - Отборочный Раунд 3,12,Maximum Element,2500.0,E,1510502700,"[combinatorics, dp]",PROGRAMMING
+886,Технокубок 2018 - Отборочный Раунд 3,12,Symmetric Projections,3000.0,F,1510502700,[geometry],PROGRAMMING
+889,"Codeforces Round #445 (Div. 1, based on Technocup 2018 Elimination Round 3)",1,Petya and Catacombs,500.0,A,1510502700,[greedy],PROGRAMMING
+889,"Codeforces Round #445 (Div. 1, based on Technocup 2018 Elimination Round 3)",1,Restoration of string,1000.0,B,1510502700,"[dsu, graphs, strings]",PROGRAMMING
+889,"Codeforces Round #445 (Div. 1, based on Technocup 2018 Elimination Round 3)",1,Maximum Element,1500.0,C,1510502700,[dp],PROGRAMMING
+889,"Codeforces Round #445 (Div. 1, based on Technocup 2018 Elimination Round 3)",1,Symmetric Projections,2000.0,D,1510502700,[geometry],PROGRAMMING
+889,"Codeforces Round #445 (Div. 1, based on Technocup 2018 Elimination Round 3)",1,Mod Mod Mod,2250.0,E,1510502700,"[binary search, dp, math]",PROGRAMMING
+890,"Codeforces Round #445 (Div. 2, based on Technocup 2018 Elimination Round 3)",2,ACM ICPC,500.0,A,1510502700,[],PROGRAMMING
+890,"Codeforces Round #445 (Div. 2, based on Technocup 2018 Elimination Round 3)",2,Vlad and Cafes,1000.0,B,1510502700,[],PROGRAMMING
+890,"Codeforces Round #445 (Div. 2, based on Technocup 2018 Elimination Round 3)",2,Petya and Catacombs,1500.0,C,1510502700,[greedy],PROGRAMMING
+890,"Codeforces Round #445 (Div. 2, based on Technocup 2018 Elimination Round 3)",2,Restoration of string,2000.0,D,1510502700,"[graphs, greedy, strings]",PROGRAMMING
+890,"Codeforces Round #445 (Div. 2, based on Technocup 2018 Elimination Round 3)",2,Maximum Element,2500.0,E,1510502700,[dp],PROGRAMMING
+890,"Codeforces Round #445 (Div. 2, based on Technocup 2018 Elimination Round 3)",2,Symmetric Projections,3000.0,F,1510502700,[],PROGRAMMING
+888,Educational Codeforces Round 32,12,Local Extrema,,A,1510239900,"[brute force, implementation]",PROGRAMMING
+888,Educational Codeforces Round 32,12,Buggy Robot,,B,1510239900,"[dp, greedy]",PROGRAMMING
+888,Educational Codeforces Round 32,12,K-Dominant Character,,C,1510239900,"[binary search, implementation, two pointers]",PROGRAMMING
+888,Educational Codeforces Round 32,12,Almost Identity Permutations,,D,1510239900,"[combinatorics, dp, math]",PROGRAMMING
+888,Educational Codeforces Round 32,12,Maximum Subsequence,,E,1510239900,"[bitmasks, divide and conquer, meet-in-the-middle]",PROGRAMMING
+888,Educational Codeforces Round 32,12,Connecting Vertices,,F,1510239900,[dp],PROGRAMMING
+888,Educational Codeforces Round 32,12,Xor-MST,,G,1510239900,"[bitmasks, constructive algorithms, data structures]",PROGRAMMING
+887,Codeforces Round #444 (Div. 2),2,Div. 64,500.0,A,1509725100,[implementation],PROGRAMMING
+887,Codeforces Round #444 (Div. 2),2,Cubes for Masha,1000.0,B,1509725100,[brute force],PROGRAMMING
+887,Codeforces Round #444 (Div. 2),2,Solution for Cube,1500.0,C,1509725100,"[brute force, implementation]",PROGRAMMING
+887,Codeforces Round #444 (Div. 2),2,Ratings and Reality Shows,2000.0,D,1509725100,"[data structures, two pointers]",PROGRAMMING
+887,Codeforces Round #444 (Div. 2),2,Little Brother,2500.0,E,1509725100,"[binary search, geometry]",PROGRAMMING
+887,Codeforces Round #444 (Div. 2),2,Row of Models,3000.0,F,1509725100,[],PROGRAMMING
+884,Educational Codeforces Round 31,12,Book Reading,,A,1509113100,[implementation],PROGRAMMING
+884,Educational Codeforces Round 31,12,Japanese Crosswords Strike Back,,B,1509113100,[implementation],PROGRAMMING
+884,Educational Codeforces Round 31,12,Bertown Subway,,C,1509113100,"[dfs and similar, greedy]",PROGRAMMING
+884,Educational Codeforces Round 31,12,Boxes And Balls,,D,1509113100,"[data structures, greedy]",PROGRAMMING
+884,Educational Codeforces Round 31,12,Binary Matrix,,E,1509113100,[dsu],PROGRAMMING
+884,Educational Codeforces Round 31,12,Anti-Palindromize,,F,1509113100,[flows],PROGRAMMING
+878,Codeforces Round #443 (Div. 1),1,Short Program,500.0,A,1509029100,"[bitmasks, constructive algorithms]",PROGRAMMING
+878,Codeforces Round #443 (Div. 1),1,Teams Formation,1250.0,B,1509029100,[implementation],PROGRAMMING
+878,Codeforces Round #443 (Div. 1),1,Tournament,1250.0,C,1509029100,"[data structures, graphs]",PROGRAMMING
+878,Codeforces Round #443 (Div. 1),1,Magic Breeding,2000.0,D,1509029100,[],PROGRAMMING
+878,Codeforces Round #443 (Div. 1),1,Numbers on the blackboard,2500.0,E,1509029100,"[combinatorics, dp]",PROGRAMMING
+879,Codeforces Round #443 (Div. 2),2,Borya's Diagnosis,500.0,A,1509029100,[implementation],PROGRAMMING
+879,Codeforces Round #443 (Div. 2),2,Table Tennis,1000.0,B,1509029100,[implementation],PROGRAMMING
+879,Codeforces Round #443 (Div. 2),2,Short Program,1500.0,C,1509029100,"[bitmasks, constructive algorithms, graph matchings]",PROGRAMMING
+879,Codeforces Round #443 (Div. 2),2,Teams Formation,2250.0,D,1509029100,[],PROGRAMMING
+879,Codeforces Round #443 (Div. 2),2,Tournament,2250.0,E,1509029100,[],PROGRAMMING
+877,Codeforces Round #442 (Div. 2),2,Alex and broken contest,500.0,A,1508773500,"[implementation, strings]",PROGRAMMING
+877,Codeforces Round #442 (Div. 2),2,Nikita and string,1000.0,B,1508773500,"[brute force, dp]",PROGRAMMING
+877,Codeforces Round #442 (Div. 2),2,Slava and tanks,1500.0,C,1508773500,[constructive algorithms],PROGRAMMING
+877,Codeforces Round #442 (Div. 2),2,Olya and Energy Drinks,2000.0,D,1508773500,"[data structures, dfs and similar, shortest paths]",PROGRAMMING
+877,Codeforces Round #442 (Div. 2),2,Danil and a Part-time Job,2250.0,E,1508773500,"[bitmasks, data structures, trees]",PROGRAMMING
+877,Codeforces Round #442 (Div. 2),2,Ann and Books,2750.0,F,1508773500,"[data structures, flows, hashing]",PROGRAMMING
+883,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Automatic Door,,A,1508573100,[implementation],PROGRAMMING
+883,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Berland Army,,B,1508573100,"[constructive algorithms, graphs, greedy]",PROGRAMMING
+883,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Downloading B++,,C,1508573100,[binary search],PROGRAMMING
+883,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Packmen Strike Back,,D,1508573100,"[binary search, dp]",PROGRAMMING
+883,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Field of Wonders,,E,1508573100,[implementation],PROGRAMMING
+883,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Lost in Transliteration,,F,1508573100,[implementation],PROGRAMMING
+883,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Orientation of Edges,,G,1508573100,[graphs],PROGRAMMING
+883,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Palindromic Cut,,H,1508573100,"[brute force, implementation]",PROGRAMMING
+883,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Photo Processing,,I,1508573100,[binary search],PROGRAMMING
+883,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Renovation,,J,1508573100,"[greedy, sortings]",PROGRAMMING
+883,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Road Widening,,K,1508573100,[implementation],PROGRAMMING
+883,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Berland.Taxi,,L,1508573100,[data structures],PROGRAMMING
+883,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Quadcopter Competition,,M,1508573100,[greedy],PROGRAMMING
+875,"Codeforces Round #441 (Div. 1, by Moscow Team Olympiad)",1,Classroom Watch,500.0,A,1508151900,[brute force],PROGRAMMING
+875,"Codeforces Round #441 (Div. 1, by Moscow Team Olympiad)",1,Sorting the Coins,1000.0,B,1508151900,"[dsu, sortings, two pointers]",PROGRAMMING
+875,"Codeforces Round #441 (Div. 1, by Moscow Team Olympiad)",1,National Property,1500.0,C,1508151900,"[2-sat, dfs and similar, graphs, implementation]",PROGRAMMING
+875,"Codeforces Round #441 (Div. 1, by Moscow Team Olympiad)",1,High Cry,1750.0,D,1508151900,"[binary search, bitmasks, data structures, divide and conquer]",PROGRAMMING
+875,"Codeforces Round #441 (Div. 1, by Moscow Team Olympiad)",1,Delivery Club,2000.0,E,1508151900,"[binary search, data structures, dp]",PROGRAMMING
+875,"Codeforces Round #441 (Div. 1, by Moscow Team Olympiad)",1,Royal Questions,2500.0,F,1508151900,"[dsu, greedy]",PROGRAMMING
+876,"Codeforces Round #441 (Div. 2, by Moscow Team Olympiad)",2,Trip For Meal,500.0,A,1508151900,[math],PROGRAMMING
+876,"Codeforces Round #441 (Div. 2, by Moscow Team Olympiad)",2,Divisiblity of Differences,1000.0,B,1508151900,[math],PROGRAMMING
+876,"Codeforces Round #441 (Div. 2, by Moscow Team Olympiad)",2,Classroom Watch,1500.0,C,1508151900,[brute force],PROGRAMMING
+876,"Codeforces Round #441 (Div. 2, by Moscow Team Olympiad)",2,Sorting the Coins,2000.0,D,1508151900,"[dsu, sortings, trees, two pointers]",PROGRAMMING
+876,"Codeforces Round #441 (Div. 2, by Moscow Team Olympiad)",2,National Property,2500.0,E,1508151900,"[2-sat, dfs and similar, graphs]",PROGRAMMING
+876,"Codeforces Round #441 (Div. 2, by Moscow Team Olympiad)",2,High Cry,2750.0,F,1508151900,[data structures],PROGRAMMING
+870,Technocup 2018 - Elimination Round 2,12,Search for Pretty Integers,500.0,A,1508054700,[brute force],PROGRAMMING
+870,Technocup 2018 - Elimination Round 2,12,Maximum of Maximums of Minimums,1000.0,B,1508054700,[greedy],PROGRAMMING
+870,Technocup 2018 - Elimination Round 2,12,Maximum splitting,1500.0,C,1508054700,"[dp, greedy, number theory]",PROGRAMMING
+870,Technocup 2018 - Elimination Round 2,12,Something with XOR Queries,2250.0,D,1508054700,"[brute force, probabilities]",PROGRAMMING
+870,Technocup 2018 - Elimination Round 2,12,"Points, Lines and Ready-made Titles",2500.0,E,1508054700,"[dfs and similar, dsu, trees]",PROGRAMMING
+870,Technocup 2018 - Elimination Round 2,12,Paths,3250.0,F,1508054700,"[data structures, number theory]",PROGRAMMING
+871,"Codeforces Round #440 (Div. 1, based on Technocup 2018 Elimination Round 2)",1,Maximum splitting,500.0,A,1508054700,"[dp, greedy, math, number theory]",PROGRAMMING
+871,"Codeforces Round #440 (Div. 1, based on Technocup 2018 Elimination Round 2)",1,Something with XOR Queries,1250.0,B,1508054700,"[brute force, implementation]",PROGRAMMING
+871,"Codeforces Round #440 (Div. 1, based on Technocup 2018 Elimination Round 2)",1,"Points, Lines and Ready-made Titles",1500.0,C,1508054700,[dfs and similar],PROGRAMMING
+871,"Codeforces Round #440 (Div. 1, based on Technocup 2018 Elimination Round 2)",1,Paths,2250.0,D,1508054700,"[number theory, sortings]",PROGRAMMING
+871,"Codeforces Round #440 (Div. 1, based on Technocup 2018 Elimination Round 2)",1,Restore the Tree,2250.0,E,1508054700,"[graphs, greedy, trees]",PROGRAMMING
+872,"Codeforces Round #440 (Div. 2, based on Technocup 2018 Elimination Round 2)",2,Search for Pretty Integers,500.0,A,1508054700,[implementation],PROGRAMMING
+872,"Codeforces Round #440 (Div. 2, based on Technocup 2018 Elimination Round 2)",2,Maximum of Maximums of Minimums,1000.0,B,1508054700,[implementation],PROGRAMMING
+872,"Codeforces Round #440 (Div. 2, based on Technocup 2018 Elimination Round 2)",2,Maximum splitting,1500.0,C,1508054700,"[greedy, math, number theory]",PROGRAMMING
+872,"Codeforces Round #440 (Div. 2, based on Technocup 2018 Elimination Round 2)",2,Something with XOR Queries,2250.0,D,1508054700,"[brute force, implementation]",PROGRAMMING
+872,"Codeforces Round #440 (Div. 2, based on Technocup 2018 Elimination Round 2)",2,"Points, Lines and Ready-made Titles",2500.0,E,1508054700,[],PROGRAMMING
+873,Educational Codeforces Round 30,12,Chores,,A,1507817100,[implementation],PROGRAMMING
+873,Educational Codeforces Round 30,12,Balanced Substring,,B,1507817100,"[dp, implementation]",PROGRAMMING
+873,Educational Codeforces Round 30,12,Strange Game On Matrix,,C,1507817100,"[greedy, two pointers]",PROGRAMMING
+873,Educational Codeforces Round 30,12,Merge Sort,,D,1507817100,[divide and conquer],PROGRAMMING
+873,Educational Codeforces Round 30,12,Awards For Contestants,,E,1507817100,"[brute force, data structures, dp]",PROGRAMMING
+873,Educational Codeforces Round 30,12,Forbidden Indices,,F,1507817100,"[dsu, string suffix structures, strings]",PROGRAMMING
+869,Codeforces Round #439 (Div. 2),2,The Artful Expedient,500.0,A,1507296900,"[brute force, implementation]",PROGRAMMING
+869,Codeforces Round #439 (Div. 2),2,The Eternal Immortality,1000.0,B,1507296900,[math],PROGRAMMING
+869,Codeforces Round #439 (Div. 2),2,The Intriguing Obsession,1500.0,C,1507296900,"[combinatorics, dp, math]",PROGRAMMING
+869,Codeforces Round #439 (Div. 2),2,The Overdosing Ubiquity,2250.0,D,1507296900,"[brute force, dfs and similar, graphs]",PROGRAMMING
+869,Codeforces Round #439 (Div. 2),2,The Untended Antiquity,2500.0,E,1507296900,"[data structures, hashing]",PROGRAMMING
+868,Codeforces Round #438 by Sberbank and Barcelona Bootcamp (Div. 1 + Div. 2 combined),12,Bark to Unlock,250.0,A,1507187100,"[brute force, strings]",PROGRAMMING
+868,Codeforces Round #438 by Sberbank and Barcelona Bootcamp (Div. 1 + Div. 2 combined),12,Race Against Time,500.0,B,1507187100,[implementation],PROGRAMMING
+868,Codeforces Round #438 by Sberbank and Barcelona Bootcamp (Div. 1 + Div. 2 combined),12,Qualification Rounds,1000.0,C,1507187100,"[bitmasks, brute force, constructive algorithms, dp]",PROGRAMMING
+868,Codeforces Round #438 by Sberbank and Barcelona Bootcamp (Div. 1 + Div. 2 combined),12,Huge Strings,1500.0,D,1507187100,"[bitmasks, brute force, dp, strings]",PROGRAMMING
+868,Codeforces Round #438 by Sberbank and Barcelona Bootcamp (Div. 1 + Div. 2 combined),12,Policeman and a Tree,2250.0,E,1507187100,"[dp, graphs, trees]",PROGRAMMING
+868,Codeforces Round #438 by Sberbank and Barcelona Bootcamp (Div. 1 + Div. 2 combined),12,Yet Another Minimization Problem,2500.0,F,1507187100,"[divide and conquer, dp]",PROGRAMMING
+868,Codeforces Round #438 by Sberbank and Barcelona Bootcamp (Div. 1 + Div. 2 combined),12,El Toll Caves,3500.0,G,1507187100,[math],PROGRAMMING
+865,MemSQL Start[c]UP 3.0 - Round 2 (onsite finalists),12,Save the problem!,500.0,A,1506791100,[constructive algorithms],PROGRAMMING
+865,MemSQL Start[c]UP 3.0 - Round 2 (onsite finalists),12,Ordering Pizza,1000.0,B,1506791100,"[binary search, sortings, ternary search]",PROGRAMMING
+865,MemSQL Start[c]UP 3.0 - Round 2 (onsite finalists),12,Gotta Go Fast,1500.0,C,1506791100,"[binary search, dp]",PROGRAMMING
+865,MemSQL Start[c]UP 3.0 - Round 2 (onsite finalists),12,Buy Low Sell High,2000.0,D,1506791100,"[constructive algorithms, data structures, greedy]",PROGRAMMING
+865,MemSQL Start[c]UP 3.0 - Round 2 (onsite finalists),12,Hex Dyslexia,2500.0,E,1506791100,"[bitmasks, brute force, dp, graphs]",PROGRAMMING
+865,MemSQL Start[c]UP 3.0 - Round 2 (onsite finalists),12,Egg Roulette,3000.0,F,1506791100,"[bitmasks, brute force, divide and conquer, math, meet-in-the-middle]",PROGRAMMING
+865,MemSQL Start[c]UP 3.0 - Round 2 (onsite finalists),12,Flowers and Chocolate,3500.0,G,1506791100,"[combinatorics, math, matrices]",PROGRAMMING
+866,MemSQL Start[c]UP 3.0 - Round 2 and Codeforces Round #437 (Div. 1),1,Save the problem!,500.0,A,1506791100,"[combinatorics, constructive algorithms, math]",PROGRAMMING
+866,MemSQL Start[c]UP 3.0 - Round 2 and Codeforces Round #437 (Div. 1),1,Ordering Pizza,1000.0,B,1506791100,"[greedy, implementation, sortings]",PROGRAMMING
+866,MemSQL Start[c]UP 3.0 - Round 2 and Codeforces Round #437 (Div. 1),1,Gotta Go Fast,1500.0,C,1506791100,"[binary search, dp, probabilities]",PROGRAMMING
+866,MemSQL Start[c]UP 3.0 - Round 2 and Codeforces Round #437 (Div. 1),1,Buy Low Sell High,2000.0,D,1506791100,"[data structures, greedy, two pointers]",PROGRAMMING
+866,MemSQL Start[c]UP 3.0 - Round 2 and Codeforces Round #437 (Div. 1),1,Hex Dyslexia,2500.0,E,1506791100,[],PROGRAMMING
+866,MemSQL Start[c]UP 3.0 - Round 2 and Codeforces Round #437 (Div. 1),1,Egg Roulette,3000.0,F,1506791100,[],PROGRAMMING
+866,MemSQL Start[c]UP 3.0 - Round 2 and Codeforces Round #437 (Div. 1),1,Flowers and Chocolate,3500.0,G,1506791100,[math],PROGRAMMING
+867,"Codeforces Round #437 (Div. 2, based on MemSQL Start[c]UP 3.0 - Round 2)",2,Between the Offices,500.0,A,1506791100,[implementation],PROGRAMMING
+867,"Codeforces Round #437 (Div. 2, based on MemSQL Start[c]UP 3.0 - Round 2)",2,Save the problem!,1000.0,B,1506791100,"[combinatorics, constructive algorithms, math]",PROGRAMMING
+867,"Codeforces Round #437 (Div. 2, based on MemSQL Start[c]UP 3.0 - Round 2)",2,Ordering Pizza,1500.0,C,1506791100,"[greedy, implementation, sortings, ternary search]",PROGRAMMING
+867,"Codeforces Round #437 (Div. 2, based on MemSQL Start[c]UP 3.0 - Round 2)",2,Gotta Go Fast,2000.0,D,1506791100,[],PROGRAMMING
+867,"Codeforces Round #437 (Div. 2, based on MemSQL Start[c]UP 3.0 - Round 2)",2,Buy Low Sell High,2500.0,E,1506791100,"[data structures, greedy]",PROGRAMMING
+867,"Codeforces Round #437 (Div. 2, based on MemSQL Start[c]UP 3.0 - Round 2)",2,Hex Dyslexia,3000.0,F,1506791100,[],PROGRAMMING
+864,Codeforces Round #436 (Div. 2),2,Fair Game,500.0,A,1506335700,"[implementation, sortings]",PROGRAMMING
+864,Codeforces Round #436 (Div. 2),2,Polycarp and Letters,1000.0,B,1506335700,"[brute force, implementation]",PROGRAMMING
+864,Codeforces Round #436 (Div. 2),2,Bus,1500.0,C,1506335700,"[greedy, implementation]",PROGRAMMING
+864,Codeforces Round #436 (Div. 2),2,Make a Permutation!,2000.0,D,1506335700,"[greedy, implementation]",PROGRAMMING
+864,Codeforces Round #436 (Div. 2),2,Fire,2500.0,E,1506335700,"[dp, sortings]",PROGRAMMING
+864,Codeforces Round #436 (Div. 2),2,Cities Excursions,3000.0,F,1506335700,[dfs and similar],PROGRAMMING
+855,"Manthan, Codefest 17",12,Tom Riddle's Diary,500.0,A,1506263700,[implementation],PROGRAMMING
+855,"Manthan, Codefest 17",12,Marvolo Gaunt's Ring,1000.0,B,1506263700,"[data structures, dp]",PROGRAMMING
+855,"Manthan, Codefest 17",12,Helga Hufflepuff's Cup,1500.0,C,1506263700,"[dp, trees]",PROGRAMMING
+855,"Manthan, Codefest 17",12,Rowena Ravenclaw's Diadem,2000.0,D,1506263700,[trees],PROGRAMMING
+855,"Manthan, Codefest 17",12,Salazar Slytherin's Locket,2500.0,E,1506263700,"[bitmasks, dp]",PROGRAMMING
+855,"Manthan, Codefest 17",12,Nagini,3000.0,F,1506263700,[data structures],PROGRAMMING
+855,"Manthan, Codefest 17",12,Harry Vs Voldemort,3500.0,G,1506263700,"[dp, graphs, trees]",PROGRAMMING
+863,Educational Codeforces Round 29,12,Quasi-palindrome,,A,1506006300,"[brute force, implementation]",PROGRAMMING
+863,Educational Codeforces Round 29,12,Kayaking,,B,1506006300,"[brute force, greedy, sortings]",PROGRAMMING
+863,Educational Codeforces Round 29,12,1-2-3,,C,1506006300,"[graphs, implementation]",PROGRAMMING
+863,Educational Codeforces Round 29,12,Yet Another Array Queries Problem,,D,1506006300,"[data structures, implementation]",PROGRAMMING
+863,Educational Codeforces Round 29,12,Turn Off The TV,,E,1506006300,"[data structures, sortings]",PROGRAMMING
+863,Educational Codeforces Round 29,12,Almost Permutation,,F,1506006300,[flows],PROGRAMMING
+863,Educational Codeforces Round 29,12,Graphic Settings,,G,1506006300,[],PROGRAMMING
+862,Codeforces Round #435 (Div. 2),2,Mahmoud and Ehab and the MEX,500.0,A,1505833500,[implementation],PROGRAMMING
+862,Codeforces Round #435 (Div. 2),2,Mahmoud and Ehab and the bipartiteness,1000.0,B,1505833500,"[dfs and similar, graphs]",PROGRAMMING
+862,Codeforces Round #435 (Div. 2),2,Mahmoud and Ehab and the xor,1500.0,C,1505833500,[constructive algorithms],PROGRAMMING
+862,Codeforces Round #435 (Div. 2),2,Mahmoud and Ehab and the binary string,1750.0,D,1505833500,"[binary search, divide and conquer]",PROGRAMMING
+862,Codeforces Round #435 (Div. 2),2,Mahmoud and Ehab and the function,2000.0,E,1505833500,"[binary search, data structures]",PROGRAMMING
+862,Codeforces Round #435 (Div. 2),2,Mahmoud and Ehab and the final stage,2750.0,F,1505833500,"[data structures, strings]",PROGRAMMING
+847,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Union of Doubly Linked Lists,,A,1505739900,[implementation],PROGRAMMING
+847,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Preparing for Merge Sort,,B,1505739900,[binary search],PROGRAMMING
+847,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Sum of Nestings,,C,1505739900,[],PROGRAMMING
+847,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Dog Show,,D,1505739900,"[data structures, greedy]",PROGRAMMING
+847,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Packmen,,E,1505739900,[binary search],PROGRAMMING
+847,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Berland Elections,,F,1505739900,[greedy],PROGRAMMING
+847,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,University Classes,,G,1505739900,[implementation],PROGRAMMING
+847,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Load Testing,,H,1505739900,[],PROGRAMMING
+847,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Noise Level,,I,1505739900,[dfs and similar],PROGRAMMING
+847,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Students Initiation,,J,1505739900,"[binary search, flows]",PROGRAMMING
+847,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Travel Cards,,K,1505739900,[sortings],PROGRAMMING
+847,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Berland SU Computer Network,,L,1505739900,"[dfs and similar, hashing, trees]",PROGRAMMING
+847,"2017-2018 ACM-ICPC, NEERC, Southern Subregional Contest, qualification stage (Online Mirror, ACM-ICPC Rules, Teams Preferred)",12,Weather Tomorrow,,M,1505739900,[implementation],PROGRAMMING
+858,Технокубок 2018 - Отборочный Раунд 1,12,k-rounding,750.0,A,1505653500,"[brute force, number theory]",PROGRAMMING
+858,Технокубок 2018 - Отборочный Раунд 1,12,Which floor?,750.0,B,1505653500,[brute force],PROGRAMMING
+858,Технокубок 2018 - Отборочный Раунд 1,12,Did you mean...,1500.0,C,1505653500,"[dp, greedy]",PROGRAMMING
+858,Технокубок 2018 - Отборочный Раунд 1,12,Polycarp's phone book,2000.0,D,1505653500,"[data structures, sortings]",PROGRAMMING
+858,Технокубок 2018 - Отборочный Раунд 1,12,Tests Renumeration,2500.0,E,1505653500,[implementation],PROGRAMMING
+858,Технокубок 2018 - Отборочный Раунд 1,12,Wizard's Tour,3000.0,F,1505653500,"[constructive algorithms, dfs and similar]",PROGRAMMING
+860,"Codeforces Round #434 (Div. 1, based on Technocup 2018 Elimination Round 1)",1,Did you mean...,500.0,A,1505653500,[greedy],PROGRAMMING
+860,"Codeforces Round #434 (Div. 1, based on Technocup 2018 Elimination Round 1)",1,Polycarp's phone book,1000.0,B,1505653500,"[brute force, data structures, hashing, strings]",PROGRAMMING
+860,"Codeforces Round #434 (Div. 1, based on Technocup 2018 Elimination Round 1)",1,Tests Renumeration,1500.0,C,1505653500,[greedy],PROGRAMMING
+860,"Codeforces Round #434 (Div. 1, based on Technocup 2018 Elimination Round 1)",1,Wizard's Tour,2000.0,D,1505653500,"[dfs and similar, graphs, greedy]",PROGRAMMING
+860,"Codeforces Round #434 (Div. 1, based on Technocup 2018 Elimination Round 1)",1,Arkady and a Nobody-men,2250.0,E,1505653500,"[data structures, dfs and similar, trees]",PROGRAMMING
+861,"Codeforces Round #434 (Div. 2, based on Technocup 2018 Elimination Round 1)",2,k-rounding,750.0,A,1505653500,"[math, number theory]",PROGRAMMING
+861,"Codeforces Round #434 (Div. 2, based on Technocup 2018 Elimination Round 1)",2,Which floor?,750.0,B,1505653500,[brute force],PROGRAMMING
+861,"Codeforces Round #434 (Div. 2, based on Technocup 2018 Elimination Round 1)",2,Did you mean...,1500.0,C,1505653500,"[brute force, strings]",PROGRAMMING
+861,"Codeforces Round #434 (Div. 2, based on Technocup 2018 Elimination Round 1)",2,Polycarp's phone book,2000.0,D,1505653500,"[brute force, data structures, strings]",PROGRAMMING
+861,"Codeforces Round #434 (Div. 2, based on Technocup 2018 Elimination Round 1)",2,Tests Renumeration,2500.0,E,1505653500,[],PROGRAMMING
+861,"Codeforces Round #434 (Div. 2, based on Technocup 2018 Elimination Round 1)",2,Wizard's Tour,3000.0,F,1505653500,[dfs and similar],PROGRAMMING
+859,MemSQL Start[c]UP 3.0 - Round 1,12,Declined Finalists,500.0,A,1505583300,[greedy],PROGRAMMING
+859,MemSQL Start[c]UP 3.0 - Round 1,12,Lazy Security Guard,750.0,B,1505583300,"[brute force, math]",PROGRAMMING
+859,MemSQL Start[c]UP 3.0 - Round 1,12,Pie Rules,1000.0,C,1505583300,"[dp, games]",PROGRAMMING
+859,MemSQL Start[c]UP 3.0 - Round 1,12,Third Month Insanity,1500.0,D,1505583300,"[dp, probabilities]",PROGRAMMING
+859,MemSQL Start[c]UP 3.0 - Round 1,12,Desk Disorder,2000.0,E,1505583300,"[combinatorics, dfs and similar, dsu, graphs, trees]",PROGRAMMING
+859,MemSQL Start[c]UP 3.0 - Round 1,12,Ordering T-Shirts,2750.0,F,1505583300,[greedy],PROGRAMMING
+859,MemSQL Start[c]UP 3.0 - Round 1,12,Circle of Numbers,3000.0,G,1505583300,[math],PROGRAMMING
+856,"Russian Code Cup 2017 - Finals [Unofficial Mirror, Div. 1 Only Recommended, Teams Allowed]",1,Set Theory,,A,1505050500,"[brute force, constructive algorithms]",PROGRAMMING
+856,"Russian Code Cup 2017 - Finals [Unofficial Mirror, Div. 1 Only Recommended, Teams Allowed]",1,Similar Words,,B,1505050500,"[dp, strings]",PROGRAMMING
+856,"Russian Code Cup 2017 - Finals [Unofficial Mirror, Div. 1 Only Recommended, Teams Allowed]",1,Eleventh Birthday,,C,1505050500,"[combinatorics, dp, math]",PROGRAMMING
+856,"Russian Code Cup 2017 - Finals [Unofficial Mirror, Div. 1 Only Recommended, Teams Allowed]",1,Masha and Cactus,,D,1505050500,[],PROGRAMMING
+856,"Russian Code Cup 2017 - Finals [Unofficial Mirror, Div. 1 Only Recommended, Teams Allowed]",1,Satellites,,E,1505050500,[],PROGRAMMING
+856,"Russian Code Cup 2017 - Finals [Unofficial Mirror, Div. 1 Only Recommended, Teams Allowed]",1,To Play or not to Play,,F,1505050500,[],PROGRAMMING
+853,"Codeforces Round #433 (Div. 1, based on Olympiad of Metropolises)",1,Planning,750.0,A,1504702500,[greedy],PROGRAMMING
+853,"Codeforces Round #433 (Div. 1, based on Olympiad of Metropolises)",1,Jury Meeting,750.0,B,1504702500,"[greedy, sortings, two pointers]",PROGRAMMING
+853,"Codeforces Round #433 (Div. 1, based on Olympiad of Metropolises)",1,Boredom,1750.0,C,1504702500,[data structures],PROGRAMMING
+853,"Codeforces Round #433 (Div. 1, based on Olympiad of Metropolises)",1,Michael and Charging Stations,1750.0,D,1504702500,"[binary search, dp]",PROGRAMMING
+853,"Codeforces Round #433 (Div. 1, based on Olympiad of Metropolises)",1,Lada Malina,2500.0,E,1504702500,"[data structures, geometry]",PROGRAMMING
+854,"Codeforces Round #433 (Div. 2, based on Olympiad of Metropolises)",2,Fraction,500.0,A,1504702500,"[brute force, constructive algorithms, math]",PROGRAMMING
+854,"Codeforces Round #433 (Div. 2, based on Olympiad of Metropolises)",2,Maxim Buys an Apartment,1000.0,B,1504702500,[constructive algorithms],PROGRAMMING
+854,"Codeforces Round #433 (Div. 2, based on Olympiad of Metropolises)",2,Planning,1750.0,C,1504702500,[],PROGRAMMING
+854,"Codeforces Round #433 (Div. 2, based on Olympiad of Metropolises)",2,Jury Meeting,1750.0,D,1504702500,[greedy],PROGRAMMING
+854,"Codeforces Round #433 (Div. 2, based on Olympiad of Metropolises)",2,Boredom,2500.0,E,1504702500,[data structures],PROGRAMMING
+846,Educational Codeforces Round 28,12,Curriculum Vitae,,A,1504623900,[brute force],PROGRAMMING
+846,Educational Codeforces Round 28,12,Math Show,,B,1504623900,"[brute force, greedy]",PROGRAMMING
+846,Educational Codeforces Round 28,12,Four Segments,,C,1504623900,"[brute force, dp]",PROGRAMMING
+846,Educational Codeforces Round 28,12,Monitor,,D,1504623900,"[binary search, data structures]",PROGRAMMING
+846,Educational Codeforces Round 28,12,Chemistry in Berland,,E,1504623900,"[dfs and similar, greedy, trees]",PROGRAMMING
+846,Educational Codeforces Round 28,12,Random Query,,F,1504623900,"[math, two pointers]",PROGRAMMING
+850,"Codeforces Round #432 (Div. 1, based on IndiaHacks Final Round 2017)",1,Five Dimensional Points,500.0,A,1504535700,"[brute force, math]",PROGRAMMING
+850,"Codeforces Round #432 (Div. 1, based on IndiaHacks Final Round 2017)",1,Arpa and a list of numbers,1000.0,B,1504535700,[number theory],PROGRAMMING
+850,"Codeforces Round #432 (Div. 1, based on IndiaHacks Final Round 2017)",1,Arpa and a game with Mojtaba,1250.0,C,1504535700,"[bitmasks, dp, games]",PROGRAMMING
+850,"Codeforces Round #432 (Div. 1, based on IndiaHacks Final Round 2017)",1,Tournament Construction,1750.0,D,1504535700,"[dp, graphs, greedy, math]",PROGRAMMING
+850,"Codeforces Round #432 (Div. 1, based on IndiaHacks Final Round 2017)",1,Random Elections,2000.0,E,1504535700,"[bitmasks, brute force, fft, math]",PROGRAMMING
+850,"Codeforces Round #432 (Div. 1, based on IndiaHacks Final Round 2017)",1,Rainbow Balls,2500.0,F,1504535700,[math],PROGRAMMING
+851,"Codeforces Round #432 (Div. 2, based on IndiaHacks Final Round 2017)",2,Arpa and a research in Mexican wave,500.0,A,1504535700,[implementation],PROGRAMMING
+851,"Codeforces Round #432 (Div. 2, based on IndiaHacks Final Round 2017)",2,Arpa and an exam about geometry,1000.0,B,1504535700,"[geometry, math]",PROGRAMMING
+851,"Codeforces Round #432 (Div. 2, based on IndiaHacks Final Round 2017)",2,Five Dimensional Points,1500.0,C,1504535700,"[brute force, math]",PROGRAMMING
+851,"Codeforces Round #432 (Div. 2, based on IndiaHacks Final Round 2017)",2,Arpa and a list of numbers,2000.0,D,1504535700,[],PROGRAMMING
+851,"Codeforces Round #432 (Div. 2, based on IndiaHacks Final Round 2017)",2,Arpa and a game with Mojtaba,2500.0,E,1504535700,"[bitmasks, games]",PROGRAMMING
+852,Bubble Cup X - Finals [Online Mirror],12,Digits,,A,1504432800,"[brute force, implementation, math]",PROGRAMMING
+852,Bubble Cup X - Finals [Online Mirror],12,Neural Network country,,B,1504432800,"[dp, matrices]",PROGRAMMING
+852,Bubble Cup X - Finals [Online Mirror],12,Property,,C,1504432800,"[greedy, sortings]",PROGRAMMING
+852,Bubble Cup X - Finals [Online Mirror],12,Exploration plan,,D,1504432800,"[binary search, flows, graph matchings, shortest paths]",PROGRAMMING
+852,Bubble Cup X - Finals [Online Mirror],12,Casinos and travel,,E,1504432800,[dp],PROGRAMMING
+852,Bubble Cup X - Finals [Online Mirror],12,Product transformation,,F,1504432800,"[combinatorics, math, number theory]",PROGRAMMING
+852,Bubble Cup X - Finals [Online Mirror],12,Bathroom terminal,,G,1504432800,[implementation],PROGRAMMING
+852,Bubble Cup X - Finals [Online Mirror],12,Bob and stages,,H,1504432800,"[dp, geometry]",PROGRAMMING
+852,Bubble Cup X - Finals [Online Mirror],12,Dating,,I,1504432800,"[brute force, dfs and similar, graphs, trees]",PROGRAMMING
+848,Codeforces Round #431 (Div. 1),1,From Y to Y,500.0,A,1504272900,[constructive algorithms],PROGRAMMING
+848,Codeforces Round #431 (Div. 1),1,Rooter's Song,1000.0,B,1504272900,"[constructive algorithms, data structures, geometry, implementation, sortings, two pointers]",PROGRAMMING
+848,Codeforces Round #431 (Div. 1),1,Goodbye Souvenir,1750.0,C,1504272900,"[data structures, divide and conquer]",PROGRAMMING
+848,Codeforces Round #431 (Div. 1),1,Shake It!,1750.0,D,1504272900,"[combinatorics, dp, flows, graphs]",PROGRAMMING
+848,Codeforces Round #431 (Div. 1),1,Days of Floral Colours,2500.0,E,1504272900,"[combinatorics, dp, fft, math]",PROGRAMMING
+849,Codeforces Round #431 (Div. 2),2,Odds and Ends,500.0,A,1504272900,[implementation],PROGRAMMING
+849,Codeforces Round #431 (Div. 2),2,Tell Your World,1000.0,B,1504272900,"[brute force, geometry]",PROGRAMMING
+849,Codeforces Round #431 (Div. 2),2,From Y to Y,1500.0,C,1504272900,[constructive algorithms],PROGRAMMING
+849,Codeforces Round #431 (Div. 2),2,Rooter's Song,2000.0,D,1504272900,[],PROGRAMMING
+849,Codeforces Round #431 (Div. 2),2,Goodbye Souvenir,2500.0,E,1504272900,[data structures],PROGRAMMING
+842,Codeforces Round #430 (Div. 2),2,Kirill And The Game,500.0,A,1504019100,"[brute force, two pointers]",PROGRAMMING
+842,Codeforces Round #430 (Div. 2),2,Gleb And Pizza,1000.0,B,1504019100,[geometry],PROGRAMMING
+842,Codeforces Round #430 (Div. 2),2,Ilya And The Tree,1500.0,C,1504019100,"[dfs and similar, math, trees]",PROGRAMMING
+842,Codeforces Round #430 (Div. 2),2,Vitya and Strange Lesson,2000.0,D,1504019100,"[binary search, data structures]",PROGRAMMING
+842,Codeforces Round #430 (Div. 2),2,Nikita and game,2500.0,E,1504019100,"[binary search, dfs and similar, divide and conquer, trees]",PROGRAMMING
+843,AIM Tech Round 4 (Div. 1),1,Sorting by Subsequences,500.0,A,1503592500,"[dfs and similar, dsu, implementation, sortings]",PROGRAMMING
+843,AIM Tech Round 4 (Div. 1),1,Interactive LowerBound,1000.0,B,1503592500,"[brute force, probabilities]",PROGRAMMING
+843,AIM Tech Round 4 (Div. 1),1,Upgrading Tree,1750.0,C,1503592500,"[constructive algorithms, dfs and similar, math]",PROGRAMMING
+843,AIM Tech Round 4 (Div. 1),1,Dynamic Shortest Path,2250.0,D,1503592500,"[graphs, shortest paths]",PROGRAMMING
+843,AIM Tech Round 4 (Div. 1),1,Maximum Flow,2250.0,E,1503592500,[flows],PROGRAMMING
+844,AIM Tech Round 4 (Div. 2),2,Diversity,500.0,A,1503592500,[implementation],PROGRAMMING
+844,AIM Tech Round 4 (Div. 2),2,Rectangles,1000.0,B,1503592500,"[combinatorics, math]",PROGRAMMING
+844,AIM Tech Round 4 (Div. 2),2,Sorting by Subsequences,1500.0,C,1503592500,[dfs and similar],PROGRAMMING
+844,AIM Tech Round 4 (Div. 2),2,Interactive LowerBound,2000.0,D,1503592500,"[brute force, probabilities]",PROGRAMMING
+844,AIM Tech Round 4 (Div. 2),2,Upgrading Tree,3000.0,E,1503592500,[],PROGRAMMING
+845,Educational Codeforces Round 27,12,Chess Tourney,,A,1503327900,[sortings],PROGRAMMING
+845,Educational Codeforces Round 27,12,Luba And The Ticket,,B,1503327900,"[brute force, greedy]",PROGRAMMING
+845,Educational Codeforces Round 27,12,Two TVs,,C,1503327900,"[data structures, greedy, sortings]",PROGRAMMING
+845,Educational Codeforces Round 27,12,Driving Test,,D,1503327900,"[data structures, dp, greedy]",PROGRAMMING
+845,Educational Codeforces Round 27,12,Fire in the City,,E,1503327900,"[binary search, data structures]",PROGRAMMING
+845,Educational Codeforces Round 27,12,Guards In The Storehouse,,F,1503327900,[dp],PROGRAMMING
+845,Educational Codeforces Round 27,12,Shortest Path Problem?,,G,1503327900,"[dfs and similar, math]",PROGRAMMING
+840,Codeforces Round #429 (Div. 1),1,Leha and Function,500.0,A,1503068700,"[combinatorics, greedy, math, number theory, sortings]",PROGRAMMING
+840,Codeforces Round #429 (Div. 1),1,Leha and another game about graph,1000.0,B,1503068700,"[constructive algorithms, data structures, dfs and similar, dp, graphs]",PROGRAMMING
+840,Codeforces Round #429 (Div. 1),1,On the Bench,1500.0,C,1503068700,"[combinatorics, dp]",PROGRAMMING
+840,Codeforces Round #429 (Div. 1),1,Destiny,2000.0,D,1503068700,"[data structures, probabilities]",PROGRAMMING
+840,Codeforces Round #429 (Div. 1),1,In a Trap,2500.0,E,1503068700,[trees],PROGRAMMING
+841,Codeforces Round #429 (Div. 2),2,Generous Kefa,500.0,A,1503068700,"[brute force, implementation]",PROGRAMMING
+841,Codeforces Round #429 (Div. 2),2,Godsend,1000.0,B,1503068700,"[games, math]",PROGRAMMING
+841,Codeforces Round #429 (Div. 2),2,Leha and Function,1500.0,C,1503068700,[greedy],PROGRAMMING
+841,Codeforces Round #429 (Div. 2),2,Leha and another game about graph,2000.0,D,1503068700,"[dfs and similar, graphs]",PROGRAMMING
+841,Codeforces Round #429 (Div. 2),2,On the Bench,2500.0,E,1503068700,[],PROGRAMMING
+839,Codeforces Round #428 (Div. 2),2,Arya and Bran,500.0,A,1502548500,[implementation],PROGRAMMING
+839,Codeforces Round #428 (Div. 2),2,Game of the Rows,1000.0,B,1502548500,"[brute force, greedy, implementation]",PROGRAMMING
+839,Codeforces Round #428 (Div. 2),2,Journey,1500.0,C,1502548500,"[dfs and similar, dp, probabilities, trees]",PROGRAMMING
+839,Codeforces Round #428 (Div. 2),2,Winter is here,2000.0,D,1502548500,"[combinatorics, dp, math, number theory]",PROGRAMMING
+839,Codeforces Round #428 (Div. 2),2,Mother of Dragons,2500.0,E,1502548500,"[brute force, graphs, math, meet-in-the-middle]",PROGRAMMING
+838,"IndiaHacks 2nd Elimination 2017 (unofficial, unrated mirror, ICPC rules)",12,Binary Blocks,,A,1502085900,[brute force],PROGRAMMING
+838,"IndiaHacks 2nd Elimination 2017 (unofficial, unrated mirror, ICPC rules)",12,Diverging Directions,,B,1502085900,"[data structures, dfs and similar, trees]",PROGRAMMING
+838,"IndiaHacks 2nd Elimination 2017 (unofficial, unrated mirror, ICPC rules)",12,Future Failure,,C,1502085900,"[dp, games]",PROGRAMMING
+838,"IndiaHacks 2nd Elimination 2017 (unofficial, unrated mirror, ICPC rules)",12,Airplane Arrangements,,D,1502085900,"[math, number theory]",PROGRAMMING
+838,"IndiaHacks 2nd Elimination 2017 (unofficial, unrated mirror, ICPC rules)",12,Convex Countour,,E,1502085900,[dp],PROGRAMMING
+838,"IndiaHacks 2nd Elimination 2017 (unofficial, unrated mirror, ICPC rules)",12,Expected Earnings,,F,1502085900,[],PROGRAMMING
+837,Educational Codeforces Round 26,12,Text Volume,,A,1501773300,[implementation],PROGRAMMING
+837,Educational Codeforces Round 26,12,Flag of Berland,,B,1501773300,"[brute force, implementation]",PROGRAMMING
+837,Educational Codeforces Round 26,12,Two Seals,,C,1501773300,[brute force],PROGRAMMING
+837,Educational Codeforces Round 26,12,Round Subset,,D,1501773300,[dp],PROGRAMMING
+837,Educational Codeforces Round 26,12,Vasya's Function,,E,1501773300,"[binary search, implementation, math]",PROGRAMMING
+837,Educational Codeforces Round 26,12,Prefix Sums,,F,1501773300,"[binary search, brute force, combinatorics, math, matrices]",PROGRAMMING
+837,Educational Codeforces Round 26,12,Functions On The Segments,,G,1501773300,[data structures],PROGRAMMING
+835,Codeforces Round #427 (Div. 2),2,Key races,500.0,A,1501511700,[math],PROGRAMMING
+835,Codeforces Round #427 (Div. 2),2,The number on the board,750.0,B,1501511700,[greedy],PROGRAMMING
+835,Codeforces Round #427 (Div. 2),2,Star sky,1250.0,C,1501511700,"[dp, implementation]",PROGRAMMING
+835,Codeforces Round #427 (Div. 2),2,Palindromic characteristics,1500.0,D,1501511700,"[brute force, dp, hashing, strings]",PROGRAMMING
+835,Codeforces Round #427 (Div. 2),2,The penguin's game,2250.0,E,1501511700,[constructive algorithms],PROGRAMMING
+835,Codeforces Round #427 (Div. 2),2,Roads in the Kingdom,2250.0,F,1501511700,"[dfs and similar, dp, graphs, trees]",PROGRAMMING
+833,Codeforces Round #426 (Div. 1),1,The Meaningless Game,500.0,A,1501425300,"[math, number theory]",PROGRAMMING
+833,Codeforces Round #426 (Div. 1),1,The Bakery,1250.0,B,1501425300,"[binary search, data structures, dp, two pointers]",PROGRAMMING
+833,Codeforces Round #426 (Div. 1),1,Ever-Hungry Krakozyabra,1500.0,C,1501425300,"[brute force, greedy]",PROGRAMMING
+833,Codeforces Round #426 (Div. 1),1,Red-Black Cobweb,2250.0,D,1501425300,"[data structures, divide and conquer, implementation, trees]",PROGRAMMING
+833,Codeforces Round #426 (Div. 1),1,Caramel Clouds,2500.0,E,1501425300,"[data structures, dp, sortings]",PROGRAMMING
+834,Codeforces Round #426 (Div. 2),2,The Useless Toy,500.0,A,1501425300,[implementation],PROGRAMMING
+834,Codeforces Round #426 (Div. 2),2,The Festive Evening,1000.0,B,1501425300,"[data structures, implementation]",PROGRAMMING
+834,Codeforces Round #426 (Div. 2),2,The Meaningless Game,1500.0,C,1501425300,[math],PROGRAMMING
+834,Codeforces Round #426 (Div. 2),2,The Bakery,2250.0,D,1501425300,"[data structures, divide and conquer, dp]",PROGRAMMING
+834,Codeforces Round #426 (Div. 2),2,Ever-Hungry Krakozyabra,2500.0,E,1501425300,[],PROGRAMMING
+832,Codeforces Round #425 (Div. 2),2,Sasha and Sticks,500.0,A,1500906900,"[games, math]",PROGRAMMING
+832,Codeforces Round #425 (Div. 2),2,Petya and Exam,1000.0,B,1500906900,[implementation],PROGRAMMING
+832,Codeforces Round #425 (Div. 2),2,Strange Radiation,1750.0,C,1500906900,"[binary search, implementation, math]",PROGRAMMING
+832,Codeforces Round #425 (Div. 2),2,"Misha, Grisha and Underground",2000.0,D,1500906900,"[dfs and similar, trees]",PROGRAMMING
+832,Codeforces Round #425 (Div. 2),2,Vasya and Shifts,2500.0,E,1500906900,[matrices],PROGRAMMING
+825,Educational Codeforces Round 25,12,Binary Protocol,,A,1500217500,[implementation],PROGRAMMING
+825,Educational Codeforces Round 25,12,Five-In-a-Row,,B,1500217500,"[brute force, implementation]",PROGRAMMING
+825,Educational Codeforces Round 25,12,Multi-judge Solving,,C,1500217500,"[greedy, implementation]",PROGRAMMING
+825,Educational Codeforces Round 25,12,Suitable Replacement,,D,1500217500,"[greedy, implementation]",PROGRAMMING
+825,Educational Codeforces Round 25,12,Minimal Labels,,E,1500217500,"[data structures, graphs, greedy]",PROGRAMMING
+825,Educational Codeforces Round 25,12,String Compression,,F,1500217500,"[dp, hashing, string suffix structures, strings]",PROGRAMMING
+825,Educational Codeforces Round 25,12,Tree Queries,,G,1500217500,"[dfs and similar, trees]",PROGRAMMING
+830,"Codeforces Round #424 (Div. 1, rated, based on VK Cup Finals)",1,Office Keys,500.0,A,1499958300,"[binary search, brute force, dp, greedy, sortings]",PROGRAMMING
+830,"Codeforces Round #424 (Div. 1, rated, based on VK Cup Finals)",1,Cards Sorting,1000.0,B,1499958300,"[data structures, implementation, sortings]",PROGRAMMING
+830,"Codeforces Round #424 (Div. 1, rated, based on VK Cup Finals)",1,Bamboo Partition,1500.0,C,1499958300,"[brute force, math, number theory, sortings, two pointers]",PROGRAMMING
+830,"Codeforces Round #424 (Div. 1, rated, based on VK Cup Finals)",1,Singer House,2250.0,D,1499958300,"[combinatorics, dp, trees]",PROGRAMMING
+830,"Codeforces Round #424 (Div. 1, rated, based on VK Cup Finals)",1,Perpetual Motion Machine,2250.0,E,1499958300,"[constructive algorithms, implementation, math, trees]",PROGRAMMING
+831,"Codeforces Round #424 (Div. 2, rated, based on VK Cup Finals)",2,Unimodal Array,500.0,A,1499958300,[implementation],PROGRAMMING
+831,"Codeforces Round #424 (Div. 2, rated, based on VK Cup Finals)",2,Keyboard Layouts,750.0,B,1499958300,"[implementation, strings]",PROGRAMMING
+831,"Codeforces Round #424 (Div. 2, rated, based on VK Cup Finals)",2,Jury Marks,1000.0,C,1499958300,[brute force],PROGRAMMING
+831,"Codeforces Round #424 (Div. 2, rated, based on VK Cup Finals)",2,Office Keys,1500.0,D,1499958300,"[binary search, brute force, dp, greedy]",PROGRAMMING
+831,"Codeforces Round #424 (Div. 2, rated, based on VK Cup Finals)",2,Cards Sorting,2000.0,E,1499958300,[data structures],PROGRAMMING
+831,"Codeforces Round #424 (Div. 2, rated, based on VK Cup Finals)",2,Bamboo Partition,2500.0,F,1499958300,[],PROGRAMMING
+827,"Codeforces Round #423 (Div. 1, rated, based on VK Cup Finals)",1,String Reconstruction,500.0,A,1499791500,"[data structures, greedy]",PROGRAMMING
+827,"Codeforces Round #423 (Div. 1, rated, based on VK Cup Finals)",1,High Load,750.0,B,1499791500,"[constructive algorithms, greedy, trees]",PROGRAMMING
+827,"Codeforces Round #423 (Div. 1, rated, based on VK Cup Finals)",1,DNA Evolution,1500.0,C,1499791500,[data structures],PROGRAMMING
+827,"Codeforces Round #423 (Div. 1, rated, based on VK Cup Finals)",1,Best Edge Weight,1750.0,D,1499791500,"[data structures, dfs and similar, graphs, trees]",PROGRAMMING
+827,"Codeforces Round #423 (Div. 1, rated, based on VK Cup Finals)",1,Rusty String,1750.0,E,1499791500,"[fft, math]",PROGRAMMING
+827,"Codeforces Round #423 (Div. 1, rated, based on VK Cup Finals)",1,Dirty Arkady's Kitchen,2500.0,F,1499791500,"[dp, shortest paths]",PROGRAMMING
+828,"Codeforces Round #423 (Div. 2, rated, based on VK Cup Finals)",2,Restaurant Tables,500.0,A,1499791500,[implementation],PROGRAMMING
+828,"Codeforces Round #423 (Div. 2, rated, based on VK Cup Finals)",2,Black Square,750.0,B,1499791500,[implementation],PROGRAMMING
+828,"Codeforces Round #423 (Div. 2, rated, based on VK Cup Finals)",2,String Reconstruction,1250.0,C,1499791500,"[data structures, sortings]",PROGRAMMING
+828,"Codeforces Round #423 (Div. 2, rated, based on VK Cup Finals)",2,High Load,1750.0,D,1499791500,"[constructive algorithms, greedy, trees]",PROGRAMMING
+828,"Codeforces Round #423 (Div. 2, rated, based on VK Cup Finals)",2,DNA Evolution,2000.0,E,1499791500,[data structures],PROGRAMMING
+828,"Codeforces Round #423 (Div. 2, rated, based on VK Cup Finals)",2,Best Edge Weight,2750.0,F,1499791500,[data structures],PROGRAMMING
+823,VK Cup 2017 - Finals,12,High Load,500.0,A,1499587500,[],PROGRAMMING
+823,VK Cup 2017 - Finals,12,DNA Evolution,1000.0,B,1499587500,[],PROGRAMMING
+823,VK Cup 2017 - Finals,12,Bamboo Partition,1500.0,C,1499587500,[],PROGRAMMING
+823,VK Cup 2017 - Finals,12,Rusty String,2000.0,D,1499587500,[],PROGRAMMING
+823,VK Cup 2017 - Finals,12,Singer House,2750.0,E,1499587500,[],PROGRAMMING
+823,VK Cup 2017 - Finals,12,Perpetual Motion Machine,2750.0,F,1499587500,[],PROGRAMMING
+823,VK Cup 2017 - Finals,12,Dirty Arkady's Kitchen,3500.0,G,1499587500,[],PROGRAMMING
+822,Codeforces Round #422 (Div. 2),2,I'm bored with life,500.0,A,1499011500,"[implementation, math, number theory]",PROGRAMMING
+822,Codeforces Round #422 (Div. 2),2,Crossword solving,750.0,B,1499011500,"[brute force, implementation]",PROGRAMMING
+822,Codeforces Round #422 (Div. 2),2,"Hacker, pack your bags!",1250.0,C,1499011500,"[binary search, greedy, sortings]",PROGRAMMING
+822,Codeforces Round #422 (Div. 2),2,My pretty girl Noora,1750.0,D,1499011500,"[brute force, dp, greedy, math, number theory]",PROGRAMMING
+822,Codeforces Round #422 (Div. 2),2,Liar,2250.0,E,1499011500,"[binary search, dp, hashing, string suffix structures]",PROGRAMMING
+822,Codeforces Round #422 (Div. 2),2,Madness,2500.0,F,1499011500,"[dfs and similar, trees]",PROGRAMMING
+818,Educational Codeforces Round 24,12,Diplomas and Certificates,,A,1498748700,"[implementation, math]",PROGRAMMING
+818,Educational Codeforces Round 24,12,Permutation Game,,B,1498748700,[implementation],PROGRAMMING
+818,Educational Codeforces Round 24,12,Sofa Thief,,C,1498748700,"[brute force, implementation]",PROGRAMMING
+818,Educational Codeforces Round 24,12,Multicolored Cars,,D,1498748700,"[data structures, implementation]",PROGRAMMING
+818,Educational Codeforces Round 24,12,Card Game Again,,E,1498748700,"[binary search, data structures, number theory, two pointers]",PROGRAMMING
+818,Educational Codeforces Round 24,12,Level Generation,,F,1498748700,"[binary search, math, ternary search]",PROGRAMMING
+818,Educational Codeforces Round 24,12,Four Melodies,,G,1498748700,[flows],PROGRAMMING
+819,Codeforces Round #421 (Div. 1),1,Mister B and Boring Game,500.0,A,1498574100,[],PROGRAMMING
+819,Codeforces Round #421 (Div. 1),1,Mister B and PR Shifts,1000.0,B,1498574100,"[data structures, implementation]",PROGRAMMING
+819,Codeforces Round #421 (Div. 1),1,Mister B and Beacons on Field,1500.0,C,1498574100,[number theory],PROGRAMMING
+819,Codeforces Round #421 (Div. 1),1,Mister B and Astronomers,2000.0,D,1498574100,[number theory],PROGRAMMING
+819,Codeforces Round #421 (Div. 1),1,Mister B and Flight to the Moon,2500.0,E,1498574100,"[constructive algorithms, graphs]",PROGRAMMING
+820,Codeforces Round #421 (Div. 2),2,Mister B and Book Reading,500.0,A,1498574100,[implementation],PROGRAMMING
+820,Codeforces Round #421 (Div. 2),2,Mister B and Angle in Polygon,1000.0,B,1498574100,"[constructive algorithms, geometry]",PROGRAMMING
+820,Codeforces Round #421 (Div. 2),2,Mister B and Boring Game,1500.0,C,1498574100,[],PROGRAMMING
+820,Codeforces Round #421 (Div. 2),2,Mister B and PR Shifts,2000.0,D,1498574100,[],PROGRAMMING
+820,Codeforces Round #421 (Div. 2),2,Mister B and Beacons on Field,2500.0,E,1498574100,[],PROGRAMMING
+821,Codeforces Round #420 (Div. 2),2,Okabe and Future Gadget Laboratory,500.0,A,1498401300,[implementation],PROGRAMMING
+821,Codeforces Round #420 (Div. 2),2,Okabe and Banana Trees,1000.0,B,1498401300,"[brute force, math]",PROGRAMMING
+821,Codeforces Round #420 (Div. 2),2,Okabe and Boxes,1500.0,C,1498401300,"[data structures, trees]",PROGRAMMING
+821,Codeforces Round #420 (Div. 2),2,Okabe and City,2000.0,D,1498401300,"[graphs, shortest paths]",PROGRAMMING
+821,Codeforces Round #420 (Div. 2),2,Okabe and El Psy Kongroo,2500.0,E,1498401300,"[dp, matrices]",PROGRAMMING
+815,Codeforces Round #419 (Div. 1),1,Karen and Game,500.0,A,1497710100,"[brute force, greedy, implementation]",PROGRAMMING
+815,Codeforces Round #419 (Div. 1),1,Karen and Test,1250.0,B,1497710100,"[brute force, constructive algorithms, math]",PROGRAMMING
+815,Codeforces Round #419 (Div. 1),1,Karen and Supermarket,1500.0,C,1497710100,"[brute force, dp, trees]",PROGRAMMING
+815,Codeforces Round #419 (Div. 1),1,Karen and Cards,2250.0,D,1497710100,"[binary search, combinatorics, data structures, geometry]",PROGRAMMING
+815,Codeforces Round #419 (Div. 1),1,Karen and Neighborhood,2250.0,E,1497710100,"[binary search, constructive algorithms]",PROGRAMMING
+816,Codeforces Round #419 (Div. 2),2,Karen and Morning,500.0,A,1497710100,"[brute force, implementation]",PROGRAMMING
+816,Codeforces Round #419 (Div. 2),2,Karen and Coffee,1000.0,B,1497710100,"[binary search, data structures]",PROGRAMMING
+816,Codeforces Round #419 (Div. 2),2,Karen and Game,1500.0,C,1497710100,"[brute force, greedy]",PROGRAMMING
+816,Codeforces Round #419 (Div. 2),2,Karen and Test,2000.0,D,1497710100,[combinatorics],PROGRAMMING
+816,Codeforces Round #419 (Div. 2),2,Karen and Supermarket,2750.0,E,1497710100,"[dp, trees]",PROGRAMMING
+817,Educational Codeforces Round 23,12,Treasure Hunt,,A,1497539100,"[implementation, number theory]",PROGRAMMING
+817,Educational Codeforces Round 23,12,Makes And The Product,,B,1497539100,"[combinatorics, sortings]",PROGRAMMING
+817,Educational Codeforces Round 23,12,Really Big Numbers,,C,1497539100,"[binary search, brute force, dp, math]",PROGRAMMING
+817,Educational Codeforces Round 23,12,Imbalanced Array,,D,1497539100,"[data structures, divide and conquer, dsu, sortings]",PROGRAMMING
+817,Educational Codeforces Round 23,12,Choosing The Commander,,E,1497539100,"[bitmasks, data structures, trees]",PROGRAMMING
+817,Educational Codeforces Round 23,12,MEX Queries,,F,1497539100,"[binary search, data structures, trees]",PROGRAMMING
+814,Codeforces Round #418 (Div. 2),2,An abandoned sentiment from past,500.0,A,1496837700,"[implementation, sortings]",PROGRAMMING
+814,Codeforces Round #418 (Div. 2),2,An express train to reveries,1000.0,B,1496837700,[constructive algorithms],PROGRAMMING
+814,Codeforces Round #418 (Div. 2),2,An impassioned circulation of affection,1750.0,C,1496837700,"[brute force, dp, two pointers]",PROGRAMMING
+814,Codeforces Round #418 (Div. 2),2,An overnight dance in discotheque,1750.0,D,1496837700,"[dfs and similar, dp, geometry, greedy, trees]",PROGRAMMING
+814,Codeforces Round #418 (Div. 2),2,An unavoidable detour for home,2500.0,E,1496837700,"[combinatorics, dp]",PROGRAMMING
+813,Educational Codeforces Round 22,12,The Contest,,A,1496675100,[implementation],PROGRAMMING
+813,Educational Codeforces Round 22,12,The Golden Age,,B,1496675100,"[brute force, math]",PROGRAMMING
+813,Educational Codeforces Round 22,12,The Tag Game,,C,1496675100,[dfs and similar],PROGRAMMING
+813,Educational Codeforces Round 22,12,Two Melodies,,D,1496675100,"[dp, flows]",PROGRAMMING
+813,Educational Codeforces Round 22,12,Army Creation,,E,1496675100,"[binary search, data structures]",PROGRAMMING
+813,Educational Codeforces Round 22,12,Bipartite Checking,,F,1496675100,"[data structures, dsu, graphs]",PROGRAMMING
+812,Codeforces Round #417 (Div. 2),2,Sagheer and Crossroads,500.0,A,1496326500,[implementation],PROGRAMMING
+812,Codeforces Round #417 (Div. 2),2,"Sagheer, the Hausmeister",1000.0,B,1496326500,"[bitmasks, brute force, dp]",PROGRAMMING
+812,Codeforces Round #417 (Div. 2),2,Sagheer and Nubian Market,1500.0,C,1496326500,[binary search],PROGRAMMING
+812,Codeforces Round #417 (Div. 2),2,Sagheer and Kindergarten,2000.0,D,1496326500,"[dfs and similar, graphs, implementation]",PROGRAMMING
+812,Codeforces Round #417 (Div. 2),2,Sagheer and Apple Tree,2500.0,E,1496326500,[games],PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,Heidi and Library (easy),,A,1495958700,[greedy],PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,Heidi and Library (medium),,B,1495958700,"[data structures, greedy]",PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,Heidi and Library (hard),,C,1495958700,[flows],PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,Marmots (easy),,D,1495958700,[math],PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,Marmots (medium),,E,1495958700,[math],PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,Marmots (hard),,F,1495958700,[math],PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,Fake News (easy),,G,1495958700,[implementation],PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,Fake News (medium),,H,1495958700,[constructive algorithms],PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,Fake News (hard),,I,1495958700,[string suffix structures],PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,Send the Fool Further! (easy),,J,1495958700,"[dfs and similar, trees]",PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,Send the Fool Further! (medium),,K,1495958700,"[dp, trees]",PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,Send the Fool Further! (hard),,L,1495958700,"[dfs and similar, dp, math, trees]",PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,April Fools' Problem (easy),,M,1495958700,"[greedy, sortings]",PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,April Fools' Problem (medium),,N,1495958700,"[binary search, flows]",PROGRAMMING
+802,"Helvetic Coding Contest 2017 online mirror (teams allowed, unrated)",12,April Fools' Problem (hard),,O,1495958700,"[binary search, flows]",PROGRAMMING
+811,Codeforces Round #416 (Div. 2),2,Vladik and Courtesy,500.0,A,1495877700,"[brute force, implementation]",PROGRAMMING
+811,Codeforces Round #416 (Div. 2),2,Vladik and Complicated Book,1000.0,B,1495877700,"[implementation, sortings]",PROGRAMMING
+811,Codeforces Round #416 (Div. 2),2,Vladik and Memorable Trip,1500.0,C,1495877700,"[dp, implementation]",PROGRAMMING
+811,Codeforces Round #416 (Div. 2),2,Vladik and Favorite Game,2000.0,D,1495877700,"[constructive algorithms, dfs and similar, graphs]",PROGRAMMING
+811,Codeforces Round #416 (Div. 2),2,Vladik and Entertaining Flags,2500.0,E,1495877700,"[data structures, dsu, graphs]",PROGRAMMING
+809,Codeforces Round #415 (Div. 1),1,Do you want a date?,500.0,A,1495303500,"[math, sortings]",PROGRAMMING
+809,Codeforces Round #415 (Div. 1),1,Glad to see you!,1000.0,B,1495303500,[binary search],PROGRAMMING
+809,Codeforces Round #415 (Div. 1),1,Find a car,1500.0,C,1495303500,"[combinatorics, divide and conquer, dp]",PROGRAMMING
+809,Codeforces Round #415 (Div. 1),1,Hitchhiking in the Baltic States,2000.0,D,1495303500,"[data structures, dp]",PROGRAMMING
+809,Codeforces Round #415 (Div. 1),1,Surprise me!,2500.0,E,1495303500,"[divide and conquer, math, trees]",PROGRAMMING
+810,Codeforces Round #415 (Div. 2),2,Straight <<A>>,500.0,A,1495303500,"[implementation, math]",PROGRAMMING
+810,Codeforces Round #415 (Div. 2),2,Summer sell-off,1000.0,B,1495303500,"[greedy, sortings]",PROGRAMMING
+810,Codeforces Round #415 (Div. 2),2,Do you want a date?,1500.0,C,1495303500,"[math, sortings]",PROGRAMMING
+810,Codeforces Round #415 (Div. 2),2,Glad to see you!,2000.0,D,1495303500,[binary search],PROGRAMMING
+810,Codeforces Round #415 (Div. 2),2,Find a car,2500.0,E,1495303500,"[divide and conquer, dp]",PROGRAMMING
+808,Educational Codeforces Round 21,12,Lucky Year,,A,1494860700,[implementation],PROGRAMMING
+808,Educational Codeforces Round 21,12,Average Sleep Time,,B,1494860700,"[data structures, math]",PROGRAMMING
+808,Educational Codeforces Round 21,12,Tea Party,,C,1494860700,"[constructive algorithms, greedy]",PROGRAMMING
+808,Educational Codeforces Round 21,12,Array Division,,D,1494860700,"[binary search, data structures, implementation]",PROGRAMMING
+808,Educational Codeforces Round 21,12,Selling Souvenirs,,E,1494860700,"[dp, greedy, ternary search]",PROGRAMMING
+808,Educational Codeforces Round 21,12,Card Game,,F,1494860700,"[binary search, flows, graphs]",PROGRAMMING
+808,Educational Codeforces Round 21,12,Anthem of Berland,,G,1494860700,"[dp, strings]",PROGRAMMING
+794,"Tinkoff Challenge - Final Round (Codeforces Round #414, rated, Div. 1 + Div. 2)",12,Bank Robbery,500.0,A,1494668100,[implementation],PROGRAMMING
+794,"Tinkoff Challenge - Final Round (Codeforces Round #414, rated, Div. 1 + Div. 2)",12,Cutting Carrot,1000.0,B,1494668100,"[geometry, math]",PROGRAMMING
+794,"Tinkoff Challenge - Final Round (Codeforces Round #414, rated, Div. 1 + Div. 2)",12,Naming Company,1750.0,C,1494668100,"[games, greedy, sortings]",PROGRAMMING
+794,"Tinkoff Challenge - Final Round (Codeforces Round #414, rated, Div. 1 + Div. 2)",12,Labelling Cities,2000.0,D,1494668100,"[dfs and similar, graphs, hashing]",PROGRAMMING
+794,"Tinkoff Challenge - Final Round (Codeforces Round #414, rated, Div. 1 + Div. 2)",12,Choosing Carrot,2500.0,E,1494668100,[games],PROGRAMMING
+794,"Tinkoff Challenge - Final Round (Codeforces Round #414, rated, Div. 1 + Div. 2)",12,Leha and security system,2750.0,F,1494668100,[data structures],PROGRAMMING
+794,"Tinkoff Challenge - Final Round (Codeforces Round #414, rated, Div. 1 + Div. 2)",12,Replace All,3500.0,G,1494668100,"[combinatorics, dp, math]",PROGRAMMING
+799,"Playrix Codescapes Cup (Codeforces Round #413, rated, Div. 1 + Div. 2)",12,Carrot Cakes,500.0,A,1494516900,"[brute force, implementation]",PROGRAMMING
+799,"Playrix Codescapes Cup (Codeforces Round #413, rated, Div. 1 + Div. 2)",12,T-shirt buying,1000.0,B,1494516900,"[data structures, implementation]",PROGRAMMING
+799,"Playrix Codescapes Cup (Codeforces Round #413, rated, Div. 1 + Div. 2)",12,Fountains,1500.0,C,1494516900,"[binary search, data structures]",PROGRAMMING
+799,"Playrix Codescapes Cup (Codeforces Round #413, rated, Div. 1 + Div. 2)",12,Field expansion,2000.0,D,1494516900,"[brute force, dp, meet-in-the-middle]",PROGRAMMING
+799,"Playrix Codescapes Cup (Codeforces Round #413, rated, Div. 1 + Div. 2)",12,Aquarium decoration,2500.0,E,1494516900,"[data structures, greedy, two pointers]",PROGRAMMING
+799,"Playrix Codescapes Cup (Codeforces Round #413, rated, Div. 1 + Div. 2)",12,Beautiful fountains rows,3250.0,F,1494516900,[data structures],PROGRAMMING
+799,"Playrix Codescapes Cup (Codeforces Round #413, rated, Div. 1 + Div. 2)",12,Cut the pie,3500.0,G,1494516900,"[binary search, data structures, geometry]",PROGRAMMING
+806,"Codeforces Round #412 (rated, Div. 1, based on VK Cup 2017 Round 3)",1,Success Rate,500.0,A,1494171900,"[binary search, math]",PROGRAMMING
+806,"Codeforces Round #412 (rated, Div. 1, based on VK Cup 2017 Round 3)",1,Dynamic Problem Scoring,1000.0,B,1494171900,"[brute force, greedy]",PROGRAMMING
+806,"Codeforces Round #412 (rated, Div. 1, based on VK Cup 2017 Round 3)",1,Prairie Partition,1750.0,C,1494171900,"[binary search, greedy]",PROGRAMMING
+806,"Codeforces Round #412 (rated, Div. 1, based on VK Cup 2017 Round 3)",1,Perishable Roads,2500.0,D,1494171900,[graphs],PROGRAMMING
+806,"Codeforces Round #412 (rated, Div. 1, based on VK Cup 2017 Round 3)",1,Blog Post Rating,2750.0,E,1494171900,[data structures],PROGRAMMING
+806,"Codeforces Round #412 (rated, Div. 1, based on VK Cup 2017 Round 3)",1,Test Data Generation,3500.0,F,1494171900,[],PROGRAMMING
+807,"Codeforces Round #412 (rated, Div. 2, base on VK Cup 2017 Round 3)",2,Is it rated?,500.0,A,1494171900,"[implementation, sortings]",PROGRAMMING
+807,"Codeforces Round #412 (rated, Div. 2, base on VK Cup 2017 Round 3)",2,T-Shirt Hunt,1000.0,B,1494171900,[brute force],PROGRAMMING
+807,"Codeforces Round #412 (rated, Div. 2, base on VK Cup 2017 Round 3)",2,Success Rate,1500.0,C,1494171900,"[binary search, math]",PROGRAMMING
+807,"Codeforces Round #412 (rated, Div. 2, base on VK Cup 2017 Round 3)",2,Dynamic Problem Scoring,2000.0,D,1494171900,"[brute force, greedy]",PROGRAMMING
+807,"Codeforces Round #412 (rated, Div. 2, base on VK Cup 2017 Round 3)",2,Prairie Partition,2750.0,E,1494171900,"[binary search, greedy]",PROGRAMMING
+807,"Codeforces Round #412 (rated, Div. 2, base on VK Cup 2017 Round 3)",2,Perishable Roads,3500.0,F,1494171900,[],PROGRAMMING
+804,Codeforces Round #411 (Div. 1),1,Find Amir,500.0,A,1493909400,"[greedy, math]",PROGRAMMING
+804,Codeforces Round #411 (Div. 1),1,Minimum number of steps,1000.0,B,1493909400,"[greedy, implementation, math]",PROGRAMMING
+804,Codeforces Round #411 (Div. 1),1,Ice cream coloring,1500.0,C,1493909400,"[constructive algorithms, dfs and similar]",PROGRAMMING
+804,Codeforces Round #411 (Div. 1),1,Expected diameter of a tree,2000.0,D,1493909400,"[binary search, brute force, dfs and similar, dp, sortings, trees]",PROGRAMMING
+804,Codeforces Round #411 (Div. 1),1,The same permutation ,2500.0,E,1493909400,[constructive algorithms],PROGRAMMING
+804,Codeforces Round #411 (Div. 1),1,Fake bullions,3000.0,F,1493909400,"[dfs and similar, dp, graphs]",PROGRAMMING
+805,Codeforces Round #411 (Div. 2),2,Fake NP,500.0,A,1493909400,[math],PROGRAMMING
+805,Codeforces Round #411 (Div. 2),2,3-palindrome,1000.0,B,1493909400,[constructive algorithms],PROGRAMMING
+805,Codeforces Round #411 (Div. 2),2,Find Amir,1500.0,C,1493909400,[constructive algorithms],PROGRAMMING
+805,Codeforces Round #411 (Div. 2),2,Minimum number of steps,2000.0,D,1493909400,[],PROGRAMMING
+805,Codeforces Round #411 (Div. 2),2,Ice cream coloring,2500.0,E,1493909400,"[constructive algorithms, dfs and similar]",PROGRAMMING
+805,Codeforces Round #411 (Div. 2),2,Expected diameter of a tree,3000.0,F,1493909400,"[graphs, probabilities]",PROGRAMMING
+803,Educational Codeforces Round 20,12,Maximal Binary Matrix,,A,1493391900,[constructive algorithms],PROGRAMMING
+803,Educational Codeforces Round 20,12,Distances to Zero,,B,1493391900,[constructive algorithms],PROGRAMMING
+803,Educational Codeforces Round 20,12,Maximal GCD,,C,1493391900,"[greedy, math]",PROGRAMMING
+803,Educational Codeforces Round 20,12,Magazine Ad,,D,1493391900,"[binary search, greedy]",PROGRAMMING
+803,Educational Codeforces Round 20,12,Roma and Poker,,E,1493391900,[dp],PROGRAMMING
+803,Educational Codeforces Round 20,12,Coprime Subsequences,,F,1493391900,"[bitmasks, combinatorics, number theory]",PROGRAMMING
+803,Educational Codeforces Round 20,12,Periodic RMQ Problem,,G,1493391900,[data structures],PROGRAMMING
+793,Tinkoff Challenge - Elimination Round,12,Oleg and shares,500.0,A,1492965900,"[implementation, math]",PROGRAMMING
+793,Tinkoff Challenge - Elimination Round,12,Igor and his way to work,1000.0,B,1492965900,"[dfs and similar, shortest paths]",PROGRAMMING
+793,Tinkoff Challenge - Elimination Round,12,Mice problem,1500.0,C,1492965900,"[geometry, implementation, sortings]",PROGRAMMING
+793,Tinkoff Challenge - Elimination Round,12,Presents in Bankopolis,2000.0,D,1492965900,"[dp, graphs, shortest paths]",PROGRAMMING
+793,Tinkoff Challenge - Elimination Round,12,Problem of offices,2500.0,E,1492965900,"[constructive algorithms, dfs and similar, dp, trees]",PROGRAMMING
+793,Tinkoff Challenge - Elimination Round,12,Julia the snail,3000.0,F,1492965900,"[data structures, divide and conquer]",PROGRAMMING
+793,Tinkoff Challenge - Elimination Round,12,Oleg and chess,3500.0,G,1492965900,"[flows, graph matchings]",PROGRAMMING
+798,Codeforces Round #410 (Div. 2),2,Mike and palindrome,500.0,A,1492785300,"[brute force, constructive algorithms, strings]",PROGRAMMING
+798,Codeforces Round #410 (Div. 2),2,Mike and strings,1000.0,B,1492785300,"[brute force, strings]",PROGRAMMING
+798,Codeforces Round #410 (Div. 2),2,Mike and gcd problem,1500.0,C,1492785300,"[dp, greedy, number theory]",PROGRAMMING
+798,Codeforces Round #410 (Div. 2),2,Mike and distribution,2000.0,D,1492785300,"[constructive algorithms, sortings]",PROGRAMMING
+798,Codeforces Round #410 (Div. 2),2,Mike and code of a permutation,2500.0,E,1492785300,"[constructive algorithms, data structures, graphs, sortings]",PROGRAMMING
+800,"Codeforces Round #409 (rated, Div. 1, based on VK Cup 2017 Round 2)",1,Voltage Keepsake,500.0,A,1492356900,"[binary search, greedy]",PROGRAMMING
+800,"Codeforces Round #409 (rated, Div. 1, based on VK Cup 2017 Round 2)",1,Volatile Kite,1000.0,B,1492356900,[geometry],PROGRAMMING
+800,"Codeforces Round #409 (rated, Div. 1, based on VK Cup 2017 Round 2)",1,Vulnerable Kerbals,1750.0,C,1492356900,[number theory],PROGRAMMING
+800,"Codeforces Round #409 (rated, Div. 1, based on VK Cup 2017 Round 2)",1,Varying Kibibits,2250.0,D,1492356900,"[combinatorics, dp]",PROGRAMMING
+800,"Codeforces Round #409 (rated, Div. 1, based on VK Cup 2017 Round 2)",1,Verifying Kingdom,2250.0,E,1492356900,[],PROGRAMMING
+801,"Codeforces Round #409 (rated, Div. 2, based on VK Cup 2017 Round 2)",2,Vicious Keyboard,500.0,A,1492356900,[brute force],PROGRAMMING
+801,"Codeforces Round #409 (rated, Div. 2, based on VK Cup 2017 Round 2)",2,Valued Keys,1000.0,B,1492356900,"[constructive algorithms, greedy, strings]",PROGRAMMING
+801,"Codeforces Round #409 (rated, Div. 2, based on VK Cup 2017 Round 2)",2,Voltage Keepsake,1500.0,C,1492356900,"[binary search, math]",PROGRAMMING
+801,"Codeforces Round #409 (rated, Div. 2, based on VK Cup 2017 Round 2)",2,Volatile Kite,2000.0,D,1492356900,"[brute force, geometry, greedy]",PROGRAMMING
+801,"Codeforces Round #409 (rated, Div. 2, based on VK Cup 2017 Round 2)",2,Vulnerable Kerbals,2750.0,E,1492356900,[],PROGRAMMING
+797,Educational Codeforces Round 19,12,k-Factorization,,A,1492266900,"[implementation, math, number theory]",PROGRAMMING
+797,Educational Codeforces Round 19,12,Odd sum,,B,1492266900,"[dp, greedy]",PROGRAMMING
+797,Educational Codeforces Round 19,12,Minimal string,,C,1492266900,"[greedy, strings]",PROGRAMMING
+797,Educational Codeforces Round 19,12,Broken BST,,D,1492266900,"[data structures, dfs and similar]",PROGRAMMING
+797,Educational Codeforces Round 19,12,Array Queries,,E,1492266900,"[brute force, data structures, dp]",PROGRAMMING
+797,Educational Codeforces Round 19,12,Mice and Holes,,F,1492266900,"[data structures, dp, greedy, sortings]",PROGRAMMING
+796,Codeforces Round #408 (Div. 2),2,Buying A House,500.0,A,1491842100,"[brute force, implementation]",PROGRAMMING
+796,Codeforces Round #408 (Div. 2),2,Find The Bone,750.0,B,1491842100,[implementation],PROGRAMMING
+796,Codeforces Round #408 (Div. 2),2,Bank Hacking,1000.0,C,1491842100,"[constructive algorithms, data structures, dp, trees]",PROGRAMMING
+796,Codeforces Round #408 (Div. 2),2,Police Stations,1500.0,D,1491842100,"[constructive algorithms, shortest paths, trees]",PROGRAMMING
+796,Codeforces Round #408 (Div. 2),2,Exam Cheating,2000.0,E,1491842100,"[binary search, dp]",PROGRAMMING
+796,Codeforces Round #408 (Div. 2),2,Sequence Recovery,2500.0,F,1491842100,"[bitmasks, data structures, greedy]",PROGRAMMING
+795,VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror),12,Amusement Park,,A,1491406500,"[*special, brute force, ternary search]",PROGRAMMING
+795,VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror),12,Significant Cups,,B,1491406500,"[*special, binary search, sortings, two pointers]",PROGRAMMING
+795,VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror),12,Maximum Number,,C,1491406500,"[*special, constructive algorithms, greedy]",PROGRAMMING
+795,VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror),12,Lie or Truth,,D,1491406500,"[*special, implementation, sortings]",PROGRAMMING
+795,VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror),12,Big Number and Remainder,,E,1491406500,"[*special, brute force, number theory]",PROGRAMMING
+795,VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror),12,Pens And Days Of Week,,F,1491406500,"[*special, brute force, number theory]",PROGRAMMING
+795,VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror),12,Perfectionist Arkadiy,,G,1491406500,"[*special, number theory]",PROGRAMMING
+795,VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror),12,Repairing Of String,,H,1491406500,"[*special, constructive algorithms]",PROGRAMMING
+795,VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror),12,Composing Of String,,I,1491406500,"[*special, dp]",PROGRAMMING
+795,VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror),12,Stepan's Series,,J,1491406500,"[*special, dp]",PROGRAMMING
+795,VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror),12,Stepan and Vowels,,K,1491406500,"[*special, implementation, strings]",PROGRAMMING
+795,VK Cup 2017 - Wild Card Round 1 (Unofficial Public Mirror),12,Bars,,L,1491406500,"[*special, binary search]",PROGRAMMING
+A,Points on the line,500.0,[brute force],PROGRAMMING,940,Codeforces Round #466 (Div. 2),1519464900,2
+B,Our Tanya is Crying Out Loud,1250.0,[greedy],PROGRAMMING,940,Codeforces Round #466 (Div. 2),1519464900,2
+C,Phone Numbers,1250.0,[constructive algorithms],PROGRAMMING,940,Codeforces Round #466 (Div. 2),1519464900,2
+D,Alena And The Heater,1500.0,[implementation],PROGRAMMING,940,Codeforces Round #466 (Div. 2),1519464900,2
+E,Cashback,2000.0,"[data structures, dp, greedy]",PROGRAMMING,940,Codeforces Round #466 (Div. 2),1519464900,2
+F,Machine Learning,2750.0,"[brute force, data structures]",PROGRAMMING,940,Codeforces Round #466 (Div. 2),1519464900,2
