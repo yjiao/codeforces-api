@@ -55,10 +55,14 @@ def get_problem_elo(problem_df):
 def get_contest_elo(contestID):
     try:
         contest_df = af.getSolveSuccessDF(contestID)
-    except:
+    except Exception as e:
+        with open('bad_contests.txt', 'a') as f:
+          f.write(str(contestID) + '\n')
         return None
-
+  
     if contest_df.shape[0] < 50:
+        with open('bad_contests.txt', 'a') as f:
+          f.write(str(contestID) + '\n')
         return None
 
     contestID = contest_df.contestID.unique()[0]
