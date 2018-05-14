@@ -1,9 +1,16 @@
 contestId,contestName,handle,newRating,oldRating,rank,ratingUpdateTimeSeconds
-902,Codeforces Round #453 (Div. 2),Mindjolt,1421,1500,3161,1513704900
-909,Codeforces Round #455 (Div. 2),Mindjolt,1469,1421,981,1514399700
-911,Educational Codeforces Round 35 (Rated for Div. 2),Mindjolt,1448,1469,1725,1514477100
-908,Good Bye 2017,Mindjolt,1393,1448,4550,1514571000
-912,Codeforces Round #456 (Div. 2),Mindjolt,1368,1393,2425,1515170100
-913,Hello 2018,Mindjolt,1319,1368,4376,1515431700
-915,Educational Codeforces Round 36 (Rated for Div. 2),Mindjolt,1298,1319,2483,1515855900
-980,Codeforces Round #480 (Div. 2),Mindjolt,1383,1298,1262,1525799100
+895,Codeforces Round #448 (Div. 2),nimishagarg_ng,1459,1500,1762,1511719500
+900,Codeforces Round #450 (Div. 2),nimishagarg_ng,1537,1459,522,1513015500
+903,Educational Codeforces Round 34 (Rated for Div. 2),nimishagarg_ng,1595,1537,483,1513098300
+898,Codeforces Round #451 (Div. 2),nimishagarg_ng,1616,1595,638,1513431300
+902,Codeforces Round #453 (Div. 2),nimishagarg_ng,1671,1616,415,1513704900
+907,"Codeforces Round #454 (Div. 2, based on Technocup 2018 Elimination Round 4)",nimishagarg_ng,1616,1671,1674,1514045100
+909,Codeforces Round #455 (Div. 2),nimishagarg_ng,1587,1616,1300,1514399700
+911,Educational Codeforces Round 35 (Rated for Div. 2),nimishagarg_ng,1576,1587,1078,1514477100
+912,Codeforces Round #456 (Div. 2),nimishagarg_ng,1542,1576,1745,1515170100
+919,Codeforces Round #460 (Div. 2),nimishagarg_ng,1486,1542,2823,1517411100
+920,Educational Codeforces Round 37 (Rated for Div. 2),nimishagarg_ng,1516,1486,951,1517589300
+938,Educational Codeforces Round 38 (Rated for Div. 2),nimishagarg_ng,1598,1516,401,1518800700
+955,Codeforces Round #471 (Div. 2),nimishagarg_ng,1594,1598,776,1521831900
+962,Educational Codeforces Round 42 (Rated for Div. 2),nimishagarg_ng,1640,1594,499,1523378100
+980,Codeforces Round #480 (Div. 2),nimishagarg_ng,1684,1640,627,1525799100

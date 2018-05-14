@@ -20559,3 +20559,15 @@ F,Cactus to Tree,3000.0,"[dp, graphs, trees]",PROGRAMMING,980,Codeforces Round #
 1,Codeforces Beta Round #1,12,Theatre Square,,A,1266580800,[math],PROGRAMMING
 1,Codeforces Beta Round #1,12,Spreadsheet,,B,1266580800,"[implementation, math]",PROGRAMMING
 1,Codeforces Beta Round #1,12,Ancient Berland Circus,,C,1266580800,"[geometry, math]",PROGRAMMING
+979,Codeforces Round #482 (Div. 2),2,"Pizza, Pizza, Pizza!!!",500.0,A,1526308500,[math],PROGRAMMING
+979,Codeforces Round #482 (Div. 2),2,Treasure Hunt,1000.0,B,1526308500,[greedy],PROGRAMMING
+979,Codeforces Round #482 (Div. 2),2,Kuro and Walking Route,1250.0,C,1526308500,[dfs and similar],PROGRAMMING
+979,Codeforces Round #482 (Div. 2),2,Kuro and GCD and XOR and SUM,1750.0,D,1526308500,"[bitmasks, brute force, data structures, strings, trees]",PROGRAMMING
+979,Codeforces Round #482 (Div. 2),2,Kuro and Topological Parity,2250.0,E,1526308500,[dp],PROGRAMMING
+978,Codeforces Round #481 (Div. 3),12,Remove Duplicates,,A,1526202300,[implementation],PROGRAMMING
+978,Codeforces Round #481 (Div. 3),12,File Name,,B,1526202300,"[greedy, strings]",PROGRAMMING
+978,Codeforces Round #481 (Div. 3),12,Letters,,C,1526202300,"[binary search, implementation, two pointers]",PROGRAMMING
+978,Codeforces Round #481 (Div. 3),12,Almost Arithmetic Progression,,D,1526202300,"[brute force, implementation, math]",PROGRAMMING
+978,Codeforces Round #481 (Div. 3),12,Bus Video System,,E,1526202300,[math],PROGRAMMING
+978,Codeforces Round #481 (Div. 3),12,Mentors,,F,1526202300,"[binary search, data structures, implementation]",PROGRAMMING
+978,Codeforces Round #481 (Div. 3),12,Petya's Exams,,G,1526202300,"[greedy, implementation, sortings]",PROGRAMMING
