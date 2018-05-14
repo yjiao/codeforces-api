@@ -202,27 +202,27 @@ print(f)
 dev.off()
 
 ## Problems solved over time
-nweeks <- difftime(max(df_activity$date), min(df_activity$date), units='weeks')
+#nweeks <- difftime(max(df_activity$date), min(df_activity$date), units='weeks')
+#
+#g <- ggplot(df_activity) +
+#    geom_freqpoly(aes(x=date), bins=nweeks/4) +
+#    labs(x='Date', y='Problems solved')
 
-g <- ggplot(df_activity) +
-    geom_freqpoly(aes(x=date), bins=nweeks/4) +
-    labs(x='Date', y='Problems solved')
-
-png('img_timeTrend.png', width=800, height=400)
-print(g)
-dev.off()
+#png('img_timeTrend.png', width=800, height=400)
+#print(g)
+#dev.off()
 
 ## Problems solved over time
-nweeks <- difftime(max(df_activity$date), min(df_activity$date), units='weeks')
+#nweeks <- difftime(max(df_activity$date), min(df_activity$date), units='weeks')
 
-g <- ggplot(df_activity) +
+#g <- ggplot(df_activity) +
     geom_freqpoly(aes(x=date, color=language), bins=nweeks/4) +
     theme(legend.position='bottom') +
     labs(x='Date', y='Problems solved')
 
-png('img_langTrend.png', width=800, height=400)
-print(g)
-dev.off()
+#png('img_langTrend.png', width=800, height=400)
+#print(g)
+#dev.off()
 
 
 

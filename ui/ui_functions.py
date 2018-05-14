@@ -32,26 +32,48 @@ def updateProblemData(prevFile, newFile, force):
     df_prev = pd.read_csv(prevFile, index_col=None, engine='c')
     
     cur_contests = api.getContestList()
-    max_prev_contests = max(df_prev.contestID)
     
-    new_contests = [c for c in cur_contests if c > max_prev_contests]
+    tmp_list = dict(df_prev.contestID)
+    tmp_list = set([tmp_list[key] for key in tmp_list])
+    
+    good = []
+    for key in tmp_list:
+      try:
+        int(key)
+        good.append(int(key))
+      except:
+        continue
+    
+    tmp_list = set(good)
+    
+    bad_contests = {}
+    with open('bad_contests.txt', 'r') as f:
+      l = [int(x) for x in f.read().split()]
+      for x in l:
+        bad_contests[x] = 1
+    
+    new_contests = []
+    for c in cur_contests:
+      if c not in tmp_list and c not in bad_contests:
+        new_contests.append(c)
     
     dflist = []
     cnt = 0
     for contestID in new_contests:
-	print "   contest", contestID
-        try:
-            contestProblems = api.getProblemDataFromContest(contestID)
-            contestProblems = contestProblems.rename(index=str, columns={'index': 'problemID'})
-            contestProblems = contestProblems.drop('contestId', 1)
-            dflist.append(contestProblems)
-            cnt += 1
-        except api.ContestNotFound:
-            sys.stderr.write(str(contestID) + ', api returned contest not found error.')
-    
+      print "   contest", contestID
+      try:
+          contestProblems = api.getProblemDataFromContest(contestID)
+          contestProblems = contestProblems.rename(index=str, columns={'index': 'problemID'})
+          contestProblems = contestProblems.drop('contestId', 1)
+          dflist.append(contestProblems)
+          cnt += 1
+      except api.ContestNotFound:
+          sys.stderr.write(str(contestID) + ', api returned contest not found error.')
+  
     if not dflist:
-	print "   Problem ratings file up to date."
-	return
+      print "   Problem ratings file up to date."
+      return
+    
     problemData = pd.concat(dflist)
     writeFile(problemData, newFile, force)
     sys.stderr.write("Successfully wrote problem data from " + str(cnt) + " contests.")
@@ -65,21 +87,32 @@ def updateProblemRating(prevFile, newFile, force):
     df_prev = pd.read_csv(prevFile, index_col=None, engine='c')
     
     cur_contests = api.getContestList()
-    max_prev_contests = max(df_prev.contestID)
     
-    new_contests = [c for c in cur_contests if c > max_prev_contests]
+    tmp_list = dict(df_prev.contestID)
+    tmp_list = set([tmp_list[key] for key in tmp_list])
+    
+    bad_contests = {}
+    with open('bad_contests.txt', 'r') as f:
+      l = [int(x) for x in f.read().split()]
+      for x in l:
+        bad_contests[x] = 1
+    
+    new_contests = []
+    for c in cur_contests:
+      if c not in tmp_list and c not in bad_contests:
+        new_contests.append(c)
     
     dflist = []
     cnt = 0
     for contestID in new_contests:
-	print "   contest", contestID
-	df = elo.get_contest_elo(contestID)
-	dflist.append(df)
-	cnt += 1
+      print "   contest", contestID
+      df = elo.get_contest_elo(contestID)
+      dflist.append(df)
+      cnt += 1
 
     if not dflist:
-	print "   Problem ratings file up to date."
-	return
+      print "   Problem ratings file up to date."
+      return
     try:
         problemRatings = pd.concat(dflist)
         writeFile(problemRatings, newFile, force)
@@ -91,18 +124,18 @@ def writeFile(data, outFile, force):
     # note: we can't just return a file handle here, although that would be more efficient. This is because whether we write the header or not is dependent on whether we are appending.
     # file handling: figure out if user wants to append or not
     if isfile(outFile):
-	if force:
-	    sys.stderr.write(outFile + " found, -f flag set, overwriting...\n")
-	    fh = open(outFile, 'w')
-	    data.to_csv(fh, encoding='utf-8', index=None, header=True)
-	else:
-	    sys.stderr.write(outFile + " found, opening in append mode...\n")
-	    fh = open(outFile, 'a')
-	    data.to_csv(fh, encoding='utf-8', index=None, header=False)
+      if force:
+          sys.stderr.write(outFile + " found, -f flag set, overwriting...\n")
+          fh = open(outFile, 'w')
+          data.to_csv(fh, encoding='utf-8', index=None, header=True)
+      else:
+          sys.stderr.write(outFile + " found, opening in append mode...\n")
+          fh = open(outFile, 'a')
+          data.to_csv(fh, encoding='utf-8', index=None, header=False)
     else:
-	sys.stderr.write(outFile + " not found, creating new file...\n")
-	fh = open(outFile, 'w')
-	data.to_csv(fh, encoding='utf-8', index=None, header=True)
+      sys.stderr.write(outFile + " not found, creating new file...\n")
+      fh = open(outFile, 'w')
+      data.to_csv(fh, encoding='utf-8', index=None, header=True)
 
 
 if __name__ == '__main__':
@@ -120,20 +153,20 @@ if __name__ == '__main__':
     print "   Getting all user problem submission information for:", args.handle
     # always overwrite
     try:
-	df_user = api.getUserActivity(args.handle)
-	df_user.to_csv(args.outputUserActivityFile, header=True, index=None, encoding='utf-8')
+      df_user = api.getUserActivity(args.handle)
+      df_user.to_csv(args.outputUserActivityFile, header=True, index=None, encoding='utf-8')
     except api.UserNotFound:
-	print "   **********************************************"
-	print "   ERROR: FAILED TO UPDATE USER ACTIVITY LIST."
-	print "   User with handle", args.handle, "was not found at codeforces. Please double check to make sure the handle was entered correctly."
+      print "   **********************************************"
+      print "   ERROR: FAILED TO UPDATE USER ACTIVITY LIST."
+      print "   User with handle", args.handle, "was not found at codeforces. Please double check to make sure the handle was entered correctly."
 
     print '   ------------------------------------'
     print "   Getting user rating history for:", args.handle
     # always overwrite
     try:
-	df_ratinghistory = api.getUserRatingHistory(args.handle)
-	df_ratinghistory.to_csv(args.outputUserRatingFile, header=True, index=None, encoding='utf-8')
+      df_ratinghistory = api.getUserRatingHistory(args.handle)
+      df_ratinghistory.to_csv(args.outputUserRatingFile, header=True, index=None, encoding='utf-8')
     except api.UserNotFound:
-	print "   **********************************************"
-	print "   ERROR: FAILED TO UPDATE USER ACTIVITY LIST."
-	print "   User with handle", args.handle, "was not found at codeforces. Please double check to make sure the handle was entered correctly."
+      print "   **********************************************"
+      print "   ERROR: FAILED TO UPDATE USER ACTIVITY LIST."
+      print "   User with handle", args.handle, "was not found at codeforces. Please double check to make sure the handle was entered correctly."
