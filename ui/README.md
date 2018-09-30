@@ -44,14 +44,13 @@ This will automatically update problem and user data, if new problems have been 
 
 ## Example Output
 
-![](https://github.com/yjiao/codeforces-api/blob/master/ui/img_userProgress.png?raw=true =600x)
+![userProgress](img_userProgress.png?raw=true=600x)
 
+![histogram](img_histogram.png?raw=true=600x)
 
-![](https://github.com/yjiao/codeforces-api/blob/master/ui/img_histogram.png?raw=true =600x)
+![langTrend](img_langTrend.png?raw=true=600x)
 
-![](https://github.com/yjiao/codeforces-api/blob/master/ui/img_langTrend.png?raw=true =600x)
-
-![](https://github.com/yjiao/codeforces-api/blob/master/ui/img_tags.png?raw=true =600x)
+![tags](img_tags.png?raw=true=600x)
 
 Script output (note warnings in ggplot are normal):
 ```
